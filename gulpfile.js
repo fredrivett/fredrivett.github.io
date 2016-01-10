@@ -4,6 +4,7 @@ var gulp = require('gulp');
     sass = require('gulp-sass');
     sourcemaps = require('gulp-sourcemaps'),
     autoprefixer = require('gulp-autoprefixer'),
+    modernizr = require('gulp-modernizr'),
     sassdoc = require('sassdoc'),
     runSequence = require('run-sequence');
 
@@ -19,26 +20,25 @@ var autoprefixerOptions = {
 
 
 
+
 gulp.task('default', function(done) {
   runSequence(['sass', 'js'], done);
 });
 
 gulp.task('watch', ['default'], function() {
-  return gulp
-    .watch('assets/scss/**/*', ['sass'])
-    .on('change', function(event) {
-      console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
-    });
+  gulp.watch('assets/scss/**/*', ['sass'])
+      .on('change', function(event) {
+        console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
+      });
+  gulp.watch('assets/js/*', ['js'])
+      .on('change', function(event) {
+        console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
+      });
 });
 
 
 
 
-
-gulp.task('js', function() {
-  gulp.src('assets/js/*')
-      .pipe(gulp.dest('source/js/'));
-});
 
 gulp.task('sass', function () {
   return gulp
@@ -52,4 +52,9 @@ gulp.task('sass', function () {
     // // Release the pressure back and trigger flowing mode (drain)
     // // See: http://sassdoc.com/gulp/#drain-event
     // .resume();
+});
+
+gulp.task('js', function() {
+  gulp.src('assets/js/**/*')
+      .pipe(gulp.dest('source/js/'));
 });

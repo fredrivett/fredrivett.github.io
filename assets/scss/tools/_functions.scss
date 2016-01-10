@@ -1,0 +1,100 @@
+/**
+ * my-color function
+ *
+ * This function gets all our $my-color map values and allows them to be
+ *  called for use by doing something like:
+ *  `background-color: my-color(pink);` or
+ *  `background-color: my-color(pink, dark);`
+ *
+ * 1) Required parameter color
+ *  1a) Optional parameter $variant, if not parsed just get the standard colour
+ * 2) Get all first level items within the map, the overarching colour (blue/
+ *     pink etc.).
+ * 3) Before we continue, let's check whether we have the variant requested in
+ *     the map, and set this as a boolean to $variant-exists.
+ * 4) If $variant-exists, then just get the variant.
+ *  4a) Else, get the standard colour...
+ *  4b) ...if we wanted the 'dark' variant, then let's scale the colour by -10%
+ *  4c) ...if we wanted the 'darker' variant, then let's scale the colour by -25%
+ * 5) Return the colour so it can be set (as the background-color, for example).
+ */
+
+@function my-color( $color, $variant: standard ) { /* [1][1a] */
+  $color: map-get($my-colors, $color); /* [2] */
+  $variant-exists: map-has-key($color, $variant); /* [3] */
+
+  @if ($variant-exists) {
+    $color: map-get($color, $variant); /* [4] */
+  } @else {
+    $color: map-get($color, standard); /* [4a] */
+
+    @if ($variant == dark) {
+      $color: scale-color($color, $lightness: -10%); /* [4b] */
+    } @else if ($variant == darker) {
+      $color: scale-color($color, $lightness: -25%); /* [4c] */
+    }
+  }
+
+  @return $color; /* [5] */
+}
+
+
+
+
+
+
+/**
+ * Map deep get function
+ *
+ * @author Hugo Giraudel
+ * @access public
+ * @param {Map} $map - Map
+ * @param {Arglist} $keys - Key chain
+ * @return {*} - Desired value
+ *
+ * This allows us to easily get the values of nested Sass maps. For more info
+ *  visit: https://css-tricks.com/snippets/sass/deep-getset-maps/
+ */
+
+@function map-deep-get($map, $keys...) {
+  @each $key in $keys {
+    $map: map-get($map, $key);
+  }
+
+  @return $map;
+}
+
+
+
+
+
+
+/**
+ * This var function
+ *
+ * This function allows us to grab context aware variables. So if we need
+ *  specific variables just for a specific component or object we can set these
+ *  in a `$c_foo__vars` Sass map, and then access with `this-var(image-size)`
+ *  for example.
+ *
+ * 1) If the map has a key of default, then we have a nested sass map, so use
+ *     map-deep-get.
+ *  1a) If not, then we're dealing with a one level deep map, so just go ahead
+ *       and get that.
+ * 2) $my-var-namespace: This is should be set at the top of the file,
+ *     immediately AFTER the `$c_foo__vars` Sass map. This is because it
+ *     references the Sass map so the map has to be declared first.
+ * 3) $context: optional param, if variants/modifiers are present and require
+ *     variables to be set, they can be set as the top level in the nested
+ *     `$c_foo__vars` Sass map. If none provided then it will default to
+ *     `default`.
+ * 4) $var: The variable from the Sass map we want to select, e.g. `image-size`.
+ */
+
+@function this-var($var, $context: default) {
+  @if (map-has-key($my-var-namespace, default)) { /* [1] */
+    @return map-deep-get($my-var-namespace, $context, $var); /* [2], [3], [4] */
+  } @else { /* [1a] */
+    @return map-get($my-var-namespace, $var);
+  }
+}

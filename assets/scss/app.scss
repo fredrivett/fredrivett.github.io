@@ -1,19 +1,32 @@
+/* TOOLS */
+@import "tools/foundation-functions";
+@import "tools/functions";
+@import "tools/mixins";
+
+
 /* SETTINGS */
 @import "settings/normalize";
+@import "settings/breakpoints";
 @import "settings/colors";
+@import "settings/type";
 @import "settings/variables";
 
 
-/* TOOLS */
-
-
 /* BASE */
+@import "base/layout";
+@import "base/type";
 
 
 /* OBJECTS */
+@import "objects/v-center";
+@import "objects/text-center";
+@import "objects/horizontal-list";
 
 
 /* COMPONENTS */
-@import "components/example";
+@import "components/main-cont";
+@import "components/social-list";
+
 
 /* UTILITIES */
+

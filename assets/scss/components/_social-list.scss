@@ -1,0 +1,24 @@
+.c_social-list {
+
+}
+
+
+  .c_social-list__link {
+
+  }
+
+
+  .c_social-list__icon {
+     width: rem-calc(60);
+    height: rem-calc(60);
+    background-color: my-color(greyscale, white-smoke);
+  }
+
+
+  .c_social-list__text {
+    opacity: 0;
+
+    .c_social-list__link:hover & {
+      opacity: 1;
+    }
+  }

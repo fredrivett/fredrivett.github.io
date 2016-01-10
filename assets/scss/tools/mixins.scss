@@ -1,0 +1,180 @@
+@mixin clearfix {
+  &:before, &:after { content: " "; display: table; }
+  &:after { clear: both; }
+}
+
+
+
+
+
+
+@mixin o_spacer($variant: null) {
+    padding-top: map-get($my-spacing, medium);
+  padding-bottom: map-get($my-spacing, medium);
+
+  @media #{$medium-up} {
+       padding-top: map-get($my-spacing, large);
+    padding-bottom: map-get($my-spacing, large);
+  }
+
+  @if ($variant == large) {
+       padding-top: map-get($my-spacing, large);
+    padding-bottom: map-get($my-spacing, large);
+
+    @media #{$medium-up} {
+         padding-top: map-get($my-spacing, xx-large);
+      padding-bottom: map-get($my-spacing, xx-large);
+    }
+  }
+}
+
+
+
+
+
+
+@mixin vertical-align($position: relative) {
+  position: $position;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+
+
+
+
+@mixin bg-cover($variant: null) {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+  @if ($variant == fixed) {
+    background-attachment: fixed;
+  }
+}
+
+
+
+
+
+
+
+/**
+ * Undercover List mixin
+ *
+ * 1) Should be applied to a <ul> or <ol> element
+ */
+
+@mixin undercover-list {
+  list-style-type: none;
+  margin-left: 0; margin-bottom: 0;
+
+  & > li {
+    padding:0;
+  }
+}
+
+
+
+
+
+
+
+/**
+ * Tint bg mixin
+ *
+ * Include this when you've got a background image that needs darkening a tad
+ *  to make sure light text on top of this is legible.
+ *
+ * 1) Set the positioning context...
+ *  1a) ...so we can absolutely position our pseudo ::after element within this
+ *       context...
+ *  1b) ...that darkens the bg a little.
+ * 2) Due to adding an overlay tint, we now need to raise everything else above
+ *     this, otherwise they'll get darkened too. There's no nice way of doing
+ *     this, here we use a descendant selector, which may provide specificity
+ *     issues down the line. But it's the best I can think of right now.
+ *  2a) Raise it on up.
+ */
+
+@mixin tint-bg($color: my-color(greyscale, black), $blend-mode: false, $opacity: 0.75, $pseudo: before) {
+  $lightness: check-lightness($color);
+
+  position: relative; /* [1] */
+
+  &::#{$pseudo} {
+    @include absolute-full; /* [1a] */
+
+    content: '';
+    background-color: rgba($color, $opacity); /* [1b] */
+
+    @if ($blend-mode == auto) {
+      @if ($lightness == dark) {
+        mix-blend-mode: darken;
+      } @else {
+        mix-blend-mode: lighten;
+      }
+    } @else if ($blend-mode){
+      mix-blend-mode: $blend-mode;
+    }
+  }
+
+  & > * { /* [2] */
+    position: relative;
+    z-index: map-get($my-z-index, grass); /* [2a] */
+  }
+}
+
+
+
+
+
+
+/**
+ * Last child mixin
+ *
+ * Enables us to access all the last children, to three levels. Useful to
+ *  make sure elements inside elements are selected, like a button inside a
+ *  form.
+ *
+ * Primarily used to remove the space at the bottom of an element.
+ *
+ * Usage:
+ * =============================================================================
+ * @include last-child {
+ *   margin-bottom: 0;
+ * }
+ * =============================================================================
+ *
+ * Originally grabbed form CSS Tricks:
+ *  https://css-tricks.com/spacing-the-bottom-of-modules/
+ */
+
+@mixin last-child {
+  & > *:last-child,
+  & > *:last-child > *:last-child,
+  & > *:last-child > *:last-child > *:last-child {
+    @content
+  }
+}
+
+
+
+
+
+
+
+/**
+ * Flex font mixin
+ *
+ * Handles sizing smaller on mobile and normal on medium up
+ */
+
+@mixin flex-font($size) {
+  font-size: rem-calc($size) * $small-font-reducer;
+
+  @media #{$medium-up} {
+    font-size: rem-calc($size);
+  }
+}

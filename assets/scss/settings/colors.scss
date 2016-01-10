@@ -1,0 +1,52 @@
+/**
+ * my-colors map
+ *
+ * This map allows us to neatly organise all our colours. We can then access
+ *  them using the `my-color` function in tools/_functions.scss. The real
+ *  benefit, however, is for use with our buttons (components/_buttons.scss)
+ *  which use our function with a @mixin bg-color to set background colours
+ *  in one fell swoop.
+ *
+ * Our default style for normal colours is like so:
+ *  color: ( standard: the-normal-hex, dark: dark-hex )
+ *  and for our greyscale colours, we've put these in their own map (they're
+ *  not really colours after all). To add a new greyscale colour, just uncomment
+ *  the closest hex value and use (via my-color function in _functions.scss).
+ *  If you do need a new greyscale colour feel free to change the hex value
+ *  when uncommenting, but once in use be very careful about changing values
+ *  as this will obviously change the colours in some areas of the site.
+ *
+ * NOTE: If no 'dark' or 'darker' value is supplied here, we can still use it
+ *  as our my-color() function will generate it for us. Settings on how much
+ *  'dark' or 'darker' these are is in the my-color() function.
+ */
+
+$my-colors: (
+     orange: ( standard: #e67e22 ),
+   facebook: ( standard: #3b5998, ),
+    twitter: ( standard: #55acee, ),
+      green: ( standard: #2ecc71, ),
+        red: ( standard: #e74c3c, ),
+  greyscale: (
+    white       : #FFFFFF,      //$my-white
+    // ghost       : #FAFAFA,
+    // snow        : #F9F9F9,
+    vapor       : #F6F6F6,
+    white-smoke : #F2F2F2,      //$my-subtle-grey
+    smoke       : #EEEEEE,      //$my-lightest-grey
+    silver      : #E6E6E6,
+    gainsboro   : #DDDDDD,      //$my-light-grey
+    // iron        : #CCCCCC,
+    ash         : #BBBBBB,
+    base        : #AAAAAA,
+    aluminum    : #999999,      //$my-medium-grey
+    // jumbo       : #888888,
+    // monsoon     : #777777,
+    steel       : #666666,      //$my-medium-dark-grey
+    charcoal    : #555555,
+    tuatara     : #444444,
+    oil         : #333333,      //$my-dark-grey
+    jet         : #222222,
+    black       : #000000,
+  ),
+);
