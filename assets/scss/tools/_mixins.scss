@@ -82,56 +82,6 @@
 
 
 /**
- * Tint bg mixin
- *
- * Include this when you've got a background image that needs darkening a tad
- *  to make sure light text on top of this is legible.
- *
- * 1) Set the positioning context...
- *  1a) ...so we can absolutely position our pseudo ::after element within this
- *       context...
- *  1b) ...that darkens the bg a little.
- * 2) Due to adding an overlay tint, we now need to raise everything else above
- *     this, otherwise they'll get darkened too. There's no nice way of doing
- *     this, here we use a descendant selector, which may provide specificity
- *     issues down the line. But it's the best I can think of right now.
- *  2a) Raise it on up.
- */
-
-@mixin tint-bg($color: my-color(greyscale, black), $blend-mode: false, $opacity: 0.75, $pseudo: before) {
-  $lightness: check-lightness($color);
-
-  position: relative; /* [1] */
-
-  &::#{$pseudo} {
-    @include absolute-full; /* [1a] */
-
-    content: '';
-    background-color: rgba($color, $opacity); /* [1b] */
-
-    @if ($blend-mode == auto) {
-      @if ($lightness == dark) {
-        mix-blend-mode: darken;
-      } @else {
-        mix-blend-mode: lighten;
-      }
-    } @else if ($blend-mode){
-      mix-blend-mode: $blend-mode;
-    }
-  }
-
-  & > * { /* [2] */
-    position: relative;
-    z-index: map-get($my-z-index, grass); /* [2a] */
-  }
-}
-
-
-
-
-
-
-/**
  * Last child mixin
  *
  * Enables us to access all the last children, to three levels. Useful to
@@ -156,25 +106,5 @@
   & > *:last-child > *:last-child,
   & > *:last-child > *:last-child > *:last-child {
     @content
-  }
-}
-
-
-
-
-
-
-
-/**
- * Flex font mixin
- *
- * Handles sizing smaller on mobile and normal on medium up
- */
-
-@mixin flex-font($size) {
-  font-size: rem-calc($size) * $small-font-reducer;
-
-  @media #{$medium-up} {
-    font-size: rem-calc($size);
   }
 }

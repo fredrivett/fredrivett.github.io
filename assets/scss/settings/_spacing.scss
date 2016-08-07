@@ -1,0 +1,24 @@
+/**
+ * Spacing settings
+ *
+ * Stored in a Sass map to keep everything tidy in one place.
+ *
+ * Can be accessed like so:
+ *  `map-get($my-spacing, medium);`
+ */
+
+$my-default-spacing: 1rem;
+
+$my-spacing: (
+  'tiny'                :       $my-default-spacing / 2,
+  'small'               :       $my-default-spacing,
+  'medium-small'        :       $my-default-spacing * 1.333,
+  'medium'              :       $my-default-spacing * 2,
+  'medium-large'        :       $my-default-spacing * 3,
+  'large'               :       $my-default-spacing * 4,
+  'x-large'             :       $my-default-spacing * 6,
+  'xx-large'            :       $my-default-spacing * 8,
+  'xxx-large'           :       $my-default-spacing * 10,
+  'huge'                :       $my-default-spacing * 16,
+  'massive'             :       $my-default-spacing * 20,
+);

@@ -1,0 +1,5 @@
+.t_emphasise {
+  @media #{$medium-up} {
+    font-size: 1.8rem;
+  }
+}

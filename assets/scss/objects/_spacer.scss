@@ -1,0 +1,86 @@
+/**
+ * spacer object
+ *
+ * This object is a generic object that can be used to add spacing around
+ *  elements.
+ *
+ * 1) By default, we want to remove the margin bottom from last children
+ *     elements within .o_spacer, as the spacer provides the spacing, we don't
+ *     need the elements to provide some too. But sometimes this interferes with
+ *     other elements that want to deal with the margin-bottom themselves, like
+ *     .o_spacer, which wants to apply a negative margin. In these cases we
+ *     apply .o_spacer--mb-default, to ignore these margin-bottom bits.
+ *  1a) Remove the margin-bottom from all of the last children
+ *  1b) ...and remove margin-bottom from all last children inside of the last
+ *       column inside a row.
+ */
+
+.o_spacer {
+     padding-top: map-get($my-spacing, large); // 40px
+  padding-bottom: map-get($my-spacing, large); // 40px
+
+  &:not(.o_spacer--mb-default) { /* [1] */
+    & > *:last-child, /* [1a] */
+    & > [class*="-col-"]:last-child > *:last-child { /* [1b] */
+      margin-bottom: 0;
+    }
+  }
+}
+
+.o_spacer--tiny {
+     padding-top: map-get($my-spacing, small); // 10px
+  padding-bottom: map-get($my-spacing, small); // 10px
+}
+
+.o_spacer--small {
+     padding-top: map-get($my-spacing, medium); // 20px
+  padding-bottom: map-get($my-spacing, medium); // 20px
+}
+
+.o_spacer--medium-small {
+     padding-top: map-get($my-spacing, medium-large); // 30px
+  padding-bottom: map-get($my-spacing, medium-large); // 30px
+}
+
+.o_spacer--medium-large {
+     padding-top: map-get($my-spacing, x-large); // 60px
+  padding-bottom: map-get($my-spacing, x-large); // 60px
+}
+
+.o_spacer--large {
+     padding-top: map-get($my-spacing, x-large); // 60px
+  padding-bottom: map-get($my-spacing, x-large); // 60px
+
+  @media #{$medium-up} {
+       padding-top: map-get($my-spacing, xx-large); // 80px
+    padding-bottom: map-get($my-spacing, xx-large); // 80px
+  }
+}
+
+.o_spacer--huge {
+     padding-top: map-get($my-spacing, xx-large); // 80px
+  padding-bottom: map-get($my-spacing, xx-large); // 80px
+
+  @media #{$medium-up} {
+       padding-top: map-get($my-spacing, huge); // 160px
+    padding-bottom: map-get($my-spacing, huge); // 160px
+  }
+}
+
+.o_spacer--massive {
+     padding-top: map-get($my-spacing, xxx-large); // 160px
+  padding-bottom: map-get($my-spacing, xxx-large); // 160px
+
+  @media #{$medium-up} {
+       padding-top: map-get($my-spacing, massive); // 200px
+    padding-bottom: map-get($my-spacing, massive); // 200px
+  }
+}
+
+.o_spacer--pt-0 {
+  padding-top: 0;
+}
+
+.o_spacer--pb-0 {
+  padding-bottom: 0;
+}

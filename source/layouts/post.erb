@@ -7,6 +7,8 @@
     <meta name="description" content="You know, one of those maker types.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <%= '<link href="' + current_article.data.canonical + '" rel="canonical">' unless current_article.data.canonical.nil? %>
+
     <title><%= current_article.title + ' | ' unless current_article.nil? %>Fred Rivett</title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
@@ -18,8 +20,25 @@
   </head>
   <body>
 
+    <nav class="c_main-nav">
+      <a href="/" class="c_main-nav__logo">FR</a>
+    </nav>
+
     <div class="o_spacer o_spacer--large">
-      <%= yield %>
+      <div class="container">
+        <div class="nine columns centered">
+          <article class="t_emphasise">
+            <header class="c_article-head">
+              <h1 class="c_article-head__title"><%= current_article.title unless current_article.title.nil? %></h1>
+              <time class="c_article-head__date" datetime="<%= current_article.date.strftime('%Y-%m-%dT%l:%M:%S%z') unless current_article.date.nil? %>">
+                <%= current_article.date.strftime('%b %e \'%y') unless current_article.date.nil? %>
+              </time>
+            </header>
+
+            <%= yield %>
+          </article>
+        </div>
+      </div>
     </div>
 
   </body>

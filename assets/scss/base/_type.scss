@@ -1,0 +1,67 @@
+body {
+  font-family: $font-family-source-code;
+}
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl {
+  font-weight: 300;
+  margin: 0 0 map-get($my-spacing, medium);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-playfair;
+}
+
+
+
+
+/**
+ * Default link styling
+ *
+ * http://codepen.io/poopsplat/pen/MaedPx
+ *
+ * 1) Change the second value to adjust how far from the top the underline
+ *  should be.
+ * 2) Change the second value to the desired height of the underline.
+ */
+
+a {
+  color: my-color(blue);
+  text-decoration: none;
+
+  background-image: linear-gradient(to right, rgba(my-color(denim), 0.15) 0%, rgba(my-color(denim), 0.15) 100%);
+  background-repeat: repeat-x;
+  background-position: 0px 100%; /* [1] */
+  background-size: 100% 0.18em; /* [2] */
+
+  &:hover {
+    background-image: linear-gradient(to right, rgba(my-color(denim), 0.5) 0%, rgba(my-color(denim), 0.5) 100%);
+  }
+}
+
+
+
+
+
+blockquote {
+  font-size: 1.8rem;
+
+  @media #{$medium-up} {
+    font-size: 2.3rem;
+  }
+
+  cite {
+    display: block;
+    font-style: italic;
+
+    &::before {
+      content: "\2013";
+      margin-right: 0.5em;
+    }
+  }
+}
+

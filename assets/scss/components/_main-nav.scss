@@ -1,0 +1,15 @@
+/**
+ * Main nav component
+ */
+
+.c_main-nav {}
+
+
+  .c_main-nav__logo {
+    display: inline-block;
+    padding: 1rem;
+
+    @media #{$medium-up} {
+      font-size: 2.4rem;
+    }
+  }
