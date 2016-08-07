@@ -9,9 +9,9 @@
       <div class="nine columns centered">
         <article class="t_emphasise">
           <header class="c_article-head">
-            <h1 class="c_article-head__title"><%= current_article.title unless current_article.title.nil? %></h1>
-            <time class="c_article-head__date" datetime="<%= current_article.date.strftime('%Y-%m-%dT%l:%M:%S%z') unless current_article.date.nil? %>">
-              <%= current_article.date.strftime('%b %e \'%y') unless current_article.date.nil? %>
+            <h1 class="c_article-head__title"><%= current_article.title if current_article.title %></h1>
+            <time class="c_article-head__date" datetime="<%= current_article.date.strftime('%Y-%m-%dT%l:%M:%S%z') if current_article.date %>" title="<%= current_article.date.strftime('%Y-%m-%d') if current_article.date %>">
+              <%= current_article.date.strftime('%b %e \'%y') if current_article.date %>
             </time>
           </header>
 
