@@ -3,52 +3,53 @@ pageable: true
 per_page: 10
 ---
 
-.container
-  .row
-    .twelve.columns
-      %h4.c_pseudo-icon.c_pseudo-icon--happy Hey there
-      %p
-        I'm
-        %a{href: "https://twitter.com/fredrivett"} Fred
-        and I like to&nbsp;
-        %a{href: "https://www.producthunt.com/@fredrivett/made"}> make stuff
-        \.
-        I&nbsp;
-        %a{href: "https://wearecontrast.com"}> design
-        ,
-        %a{href: "https://github.com/fredrivett"} code
-        and&nbsp;
-        %a{href: "https://medium.com/fredrivett"}> write
-        \.
-      %p
-        Front End Dev&nbsp;
-        %a{href: "https://store.tpo.com"}> @TPO
-        , 1/2&nbsp;
-        %a{href: "https://wearecontrast.com"}> @wecontrast
-        \.
-      %p
-        %small
-          %a{href: "https://medium.com/@fredrivett/fumbling-forwards-5716c52e090#.9eo80twy9"}
-            p.s. I don't know what I'm doing.
-  .row
-    .ten.columns.centered
-      .o_spacer.o_spacer--large
-        - if paginate && num_pages > 1
-          %p
-            Page #{page_number} of #{num_pages}
-          - if prev_page
-            %p= link_to 'Previous page', prev_page
-        #section
-          %ol.o_naked-list
-            %li
-              %h2.c_article-list-head.c_pseudo-icon.c_pseudo-icon--arrow
-                Latest
-            - page_articles.each_with_index do |article, i|
-              %li.c_article-head.c_article-head--list-view
-                %h3.c_article-head__title= link_to article.title, article
-                %time.c_article-head__date{datetime: article.date.strftime('%Y-%m-%dT%l:%M:%S%z')}= article.date.strftime('%b %e')
-                / use article.summary(250) if you have Nokogiri available to show just the first 250 characters
-                / = article.body
-        - if paginate
-          - if next_page
-            %p= link_to 'Next page', next_page
+.o_spacer.o_spacer--large
+  .container
+    .row
+      .twelve.columns
+        %h4.c_pseudo-icon.c_pseudo-icon--happy Hey there
+        %p
+          I'm
+          %a{href: "https://twitter.com/fredrivett"} Fred
+          and I like to&nbsp;
+          %a{href: "https://www.producthunt.com/@fredrivett/made"}> make stuff
+          \.
+          I&nbsp;
+          %a{href: "https://wearecontrast.com"}> design
+          ,
+          %a{href: "https://github.com/fredrivett"} code
+          and&nbsp;
+          %a{href: "https://medium.com/fredrivett"}> write
+          \.
+        %p
+          Front End Dev&nbsp;
+          %a{href: "https://store.tpo.com"}> @TPO
+          , 1/2&nbsp;
+          %a{href: "https://wearecontrast.com"}> @wecontrast
+          \.
+        %p
+          %small
+            %a{href: "https://medium.com/@fredrivett/fumbling-forwards-5716c52e090#.9eo80twy9"}
+              p.s. I don't know what I'm doing.
+    .row
+      .ten.columns.centered
+        .o_spacer.o_spacer--large
+          - if paginate && num_pages > 1
+            %p
+              Page #{page_number} of #{num_pages}
+            - if prev_page
+              %p= link_to 'Previous page', prev_page
+          #section
+            %ol.o_naked-list
+              %li
+                %h2.c_article-list-head.c_pseudo-icon.c_pseudo-icon--arrow
+                  Latest
+              - page_articles.each_with_index do |article, i|
+                %li.c_article-head.c_article-head--list-view
+                  %h3.c_article-head__title= link_to article.title, article
+                  %time.c_article-head__date{datetime: article.date.strftime('%Y-%m-%dT%l:%M:%S%z')}= article.date.strftime('%b %e')
+                  / use article.summary(250) if you have Nokogiri available to show just the first 250 characters
+                  / = article.body
+          - if paginate
+            - if next_page
+              %p= link_to 'Next page', next_page
