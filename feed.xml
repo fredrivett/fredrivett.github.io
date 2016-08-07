@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2016/08/03/fumbling-forwards/"/>
     <id>http://blog.url.com/2016/08/03/fumbling-forwards/</id>
     <published>2016-08-04T00:29:00+01:00</published>
-    <updated>2016-08-07T12:10:29+01:00</updated>
+    <updated>2016-08-07T19:10:20+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -62,6 +62,90 @@
 &lt;p&gt;&lt;em&gt;Prodigo is a simple app that gives you actionable insights into the tools and services you’re paying for.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re early stage and would love to shape this with you. If you’re interested you can sign up at &lt;a href="https://prodigo.co/"&gt;prodigo.co&lt;/a&gt; ✍️  or &lt;a href="https://twitter.com/FredRivett"&gt;say hi and we can chat&lt;/a&gt; 👋&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Make Stuff</title>
+    <link rel="alternate" href="http://blog.url.com/2016/06/08/make-stuff/"/>
+    <id>http://blog.url.com/2016/06/08/make-stuff/</id>
+    <published>2016-06-08T01:00:00+01:00</published>
+    <updated>2016-08-07T18:57:32+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;A week ago &lt;a href="https://twitter.com/marckohlbrugge"&gt;Marc Köhlbrugge&lt;/a&gt; released a neat little side project. The premise was simple, pay to get featured on the site. We’ve seen this before, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.milliondollarhomepage.com/"&gt;The million dollar homepage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The twist here? The more you pay, the higher you’ll be featured on the leaderboard. This gamified the system, with individuals and companies paying more and more for the highest position. Marc managed to use his existing networks to bring the initial burst of traffic through, and pretty soon the ball was well and truly rolling.&lt;/p&gt;
+
+&lt;p&gt;If you want some traffic to your site now would be a good time to participate: &lt;a href="https://highscore.money/"&gt;http://highscore.money&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you want some traffic to your site now would be a good time to participate: &lt;a href="https://highscore.money/"&gt;http://highscore.money&lt;/a&gt;
+&lt;cite&gt;&lt;a href="https://twitter.com/marckohlbrugge?ref_src=twsrc%5Etfw"&gt;@marckohlbrugge on twitter&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And by the end of the day Marc had done &lt;a href="https://medium.com/@marckohlbrugge/how-i-made-2-251-in-1-day-with-highscore-money-dd56b35b2681#.i58k99t77"&gt;pretty well&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;This sort of project clearly comes under the silly little side projects umbrella. It was an opportunistic attempt to make a quick buck, whilst providing value to those who paid for a slot and having fun along the way.&lt;/p&gt;
+
+&lt;p&gt;As makers, quick side projects like this help flex our creative muscles. I don’t think Marc intended this to be a fully fledged business, he’s already focussed in on his main gig, BetaList, but that didn’t stop him spending a few days creating this.&lt;/p&gt;
+
+&lt;p&gt;Whilst following Marc’s launch day progress, one tweet from Marc struck me, and got me thinking.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What's a good, privacy-friendly real-time website counter?
+&lt;cite&gt;&lt;a href="https://twitter.com/marckohlbrugge/status/737388891246891008?ref_src=twsrc%5Etfw"&gt;@marckohlbrugge on twitter&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was the second time I’d seen a request for some form of user facing site stats. A few weeks before, &lt;a href="https://twitter.com/mijustin"&gt;Justin Jackson&lt;/a&gt; had written &lt;a href="https://justinjackson.ca/webmaster/"&gt;I’m a fucking webmaster&lt;/a&gt;, and wrote &lt;a href="https://news.ycombinator.com/item?id=11685868"&gt;this comment on his Hacker News post&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;BTW: does anyone know of a lightweight, retro “hit counter” that can grab my GA stats and display them at the bottom?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A pattern was forming here, enough for me to mention to &lt;a href="https://twitter.com/mikeaag"&gt;Mike&lt;/a&gt; that this might be something for us to explore.&lt;/p&gt;
+
+&lt;p&gt;Mike and I have been working on side projects for years, but only recently have we got into the habit of actually launching them. Having set ourselves the challenge to launch &lt;a href="https://blog.wearecontrast.com/introducing-sixbysix-217d608362#.gpqkok2i1"&gt;six projects in six months&lt;/a&gt; at the end of 2014, we’ve launched &lt;a href="https://www.producthunt.com/@mikeaag/collections/i-made-that"&gt;8 side projects since&lt;/a&gt;, including writing our first book about the whole process, &lt;a href="https://learningtolaunch.co/"&gt;Learning to Launch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More recently though, we’ve been focussing on thinking through problems we want to solve, areas of tech we’re interested in, potential markets we’d enjoy helping. We’ve been thinking a lot about the startup we want to build.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to get stuck in analysis paralysis. It’s important that we keep moving forwards. That’s why, this past weekend, we spent most of it hacking together a small side project, inspired by Marc’s tweet.&lt;/p&gt;
+
+&lt;h2 id="introducing-real-time-users"&gt;Introducing Real Time Users&lt;/h2&gt;
+
+&lt;p&gt;Sometimes you’ve gotta have some fun and build stuff. That’s what Marc did, and that’s what we decided to do, too. Real Time Users is a little side project that makes us smile.&lt;/p&gt;
+
+&lt;p&gt;Real Time Users is vulnerable, it exposes the truth of how popular your site is. Go to it anytime, and you’ll likely be greeted by the fact you’re the only person on the internet there. That’s both beautiful to know, that you are alone on this piece of internet real estate, and, as a creator, leaves me feeling slightly exposed. You know how popular my site is. For us at least, that’s a new level of transparency.&lt;/p&gt;
+
+&lt;p&gt;Partially inspired by Marc’s leaderboard, we’ve included &lt;a href="https://realtimeusers.bycontrast.co/leaderboard"&gt;one of our own&lt;/a&gt;. If you take the 60 seconds and add Real Time Users to your site, you’ll likely take up one of the top 10 slots, until at least 8 others add it to their sites too. You’ll be able to see whether anyone ever adds this to their site, simply by tracking whether those top 10 slots ever fill up.&lt;/p&gt;
+
+&lt;p&gt;I’m proud of it, proud because, having discussed it a few times during the week, we only really got to work on it this past weekend, and by Sunday evening we were pretty much ready to go.&lt;/p&gt;
+
+&lt;p&gt;On a walk with Mike the other night I asked him, how long would it have taken us to launch Real Time Users pre-SixBySix? His answer: &lt;em&gt;we’d have never shipped it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;He’s right &lt;em&gt;(don’t tell him that)&lt;/em&gt;. We wouldn’t have. We would have added feature after feature, built with needless shiny technology, and delayed launching month by month as we strived to build the next Google Analytics.&lt;/p&gt;
+
+&lt;p&gt;Since SixBySix, we’re much quicker to launch, and the quality has improved too. Our first project, &lt;a href="http://howsitgo.in/"&gt;HowsItGoin&lt;/a&gt; took 250 hours to ship. Real Time Users took under 15.&lt;/p&gt;
+
+&lt;p&gt;That’s what we’ve learnt, these past eighteen months. Ship stuff. Keep moving forwards. Learn as you go.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Building and launching stuff is a skill, a habit, a muscle. The more you do it, the better you get.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Spending the past month or so thinking through what we want to be focussing on, the business we want to build, has been an essential step. But sometimes we need to &lt;a href="https://twitter.com/FredRivett/status/737384708024238084"&gt;step away from the magic whiteboards&lt;/a&gt; and get back to making stuff.&lt;/p&gt;
+
+&lt;p&gt;Who knows what’ll come of it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This broadcast was brought to you by We Are CONTRAST Ltd. If you enjoyed this show, you may enjoy similar offerings, such as &lt;a href="https://blog.wearecontrast.com/why-you-don-t-have-to-quit-your-job-to-get-started-but-not-having-a-life-helps-ea9bdb230bcd#.tyo5zi1wt"&gt;Why You Don’t Have to Quit Your Job to Get Started (But Not Having a Life Helps)&lt;/a&gt;, &lt;a href="https://blog.wearecontrast.com/how-a-tweet-inspired-a-christmas-hackathon-ed2973ff0689#.55f0z9q63"&gt;How a Tweet Inspired a Christmas Hackathon&lt;/a&gt; and &lt;a href="https://blog.wearecontrast.com/10-easy-steps-to-launching-your-side-project-bbff783b08a8#.d5lsoac46"&gt;10 Easy Steps to Launching Your Side Project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href="https://learningtolaunch.co/"&gt;Did we mention we wrote a book. It’s free. Like, totally free. You should read it 👀 📖&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>
