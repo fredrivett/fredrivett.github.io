@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
     <meta name="author" content="Fred Rivett">
-    <meta name="description" content="You know, one of those maker types.">
+    <meta name="description" content="<%= current_article ? strip_tags(current_article.summary(140)) : 'You know, one of those maker types.' %>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title><%= current_article.title + ' | ' if current_article %>Fred Rivett</title>
