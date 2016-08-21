@@ -1,7 +1,7 @@
 ---
 title: Super Powerful
 date: 2016-08-11 00:00 UTC
-tags:
+tags: startups, launching
 ---
 
 It had happened again. We had failed, again. Just over two years ago, we had tried to create a website builder specifically aimed at plumbers. But after working on it for over three months, we threw in the towel. Yet again we'd failed to launch anything at all.
