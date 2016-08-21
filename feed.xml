@@ -5,16 +5,106 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-08-11T01:00:00+01:00</updated>
+  <updated>2016-08-21T11:58:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>New Is Overrated</title>
+    <link rel="alternate" href="http://blog.url.com/2016/08/21/new-is-overrated/"/>
+    <id>http://blog.url.com/2016/08/21/new-is-overrated/</id>
+    <published>2016-08-21T11:58:00+01:00</published>
+    <updated>2016-08-21T12:05:33+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;We'll always remember our first real lightbulb idea. For me it was late 2009, I was sitting at my desk, on a course that I soon realised wasn't really going to teach me anything that useful. Not that I knew everything – not at all – but the culture there wasn't exactly one of pushing you to be your best, they were just happy that we turned up.&lt;/p&gt;
+
+&lt;p&gt;This day was different though. As I sat there, daydreaming (as I often do), I realised something – I love reading. I really wanted a place to keep tabs on what I'd read, and maybe add a quick review on what I thought. I'd also quite like a way of finding out what my friends were reading and what they recommend reading next.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;"Oh! What if there was a Facebook for book readers! That'd be awesome!"&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="the-master-plan"&gt;The Master Plan&lt;/h3&gt;
+
+&lt;p&gt;That evening on the train home I rang &lt;a href="https://twitter.com/mikeaag"&gt;Mike&lt;/a&gt; to chat about the idea. We were both really excited about what it could be. We even came up with a super awesome codename (#blackhawk) so that no eavesdroppers would pick up on our idea and run off into the distance with our millions.&lt;/p&gt;
+
+&lt;p&gt;I then spent the next week writing up exactly what the site would do, what each page's purpose was and sketched out roughly how it would look. I had 6 or 7 pages of pure gold, or at least that's what I thought at the time.&lt;/p&gt;
+
+&lt;p&gt;With my plan in hand we agreed to meet up at a nearby pub. We sat in the garden next to a quiet stream with a good beer and talked it through. We spent a good couple of hours there going through the notes and discussing what the site would be. When we finished we both left excited about our first real idea, and soon got stuck into the design and development.&lt;/p&gt;
+
+&lt;p&gt;After a couple of months, we had an initial design, some code and a clearer view of the path ahead, including how we'd monetise the site. We were making progress, things were taking shape. Remarkably we were still just as excited as that day at the pub by the stream. What happened next definitely wasn't expected.&lt;/p&gt;
+
+&lt;p&gt;It goes without saying that when I had the idea, I did a quick Google to see if it already existed. You know, the 'Facebook for reading' search and then look at the top 3 results. But that's about as far as it went. &lt;em&gt;I wasn't looking for a competitor, so I didn't find one.&lt;/em&gt; We took this brief research as enough to say it hadn't been done and ploughed on.&lt;/p&gt;
+
+&lt;p&gt;But, now a couple months into development, Mike raised the question about whether this really hadn't been done before. We'd spent the last couple months working on this idea, but our initial research was limited at best. I told Mike that I’d done some research and hadn't found anything.&lt;/p&gt;
+
+&lt;p&gt;Mike did a quick Google. Oh crap. It's been done.&lt;/p&gt;
+
+&lt;p&gt;And there it was. Shelfari. Someone had done this already. We were late to the party. Very late as it turns out. Shelfari had launched 3 years earlier. And not only that, but they'd been acquired by Amazon too. Dammit. This idea &lt;em&gt;was awesome&lt;/em&gt;. But we'd missed the boat.&lt;/p&gt;
+
+&lt;p&gt;That sucked. We'd dreamed of our idea for months now and invested a good amount of time and effort into it. But it had been done, the dream was over, time to move on.&lt;/p&gt;
+
+&lt;p&gt;Looking back on it, there were a number of issues with our approach. First, there was the whole OTT &lt;em&gt;list all the must have launch features&lt;/em&gt;. Then there was the locking ourselves away for months on end with our secretive idea, hoping one day we would be ready for the big unveil and that everyone would love it as much as we did. But the biggest issue was the fact that we gave up after finding out it had been done already.&lt;/p&gt;
+
+&lt;p&gt;Since then we’ve learnt an important lesson:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;New isn’t important. Better is. Significantly better.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="how-can-we-make-this-better"&gt;How can we make this better?&lt;/h3&gt;
+
+&lt;p&gt;When considering a problem to solve, or an idea to work on, we shouldn’t be asking "are we the first to do this?" but “how is this problem currently being solved? How can we solve it &lt;em&gt;better&lt;/em&gt;?”&lt;/p&gt;
+
+&lt;p&gt;A new twist? A new package? Reworking a successful formula to be more applicable? More frictionless? Easier to access?&lt;/p&gt;
+
+&lt;p&gt;For an idea to be worth working on you need to see the core of the problem already being solved, with at least some success. If your idea is going to be successful it will already have been done, somewhere, somehow. Your job is reshaping, repackaging and restarting it to capture a different need than currently applied to, or better capture an existing one.&lt;/p&gt;
+
+&lt;p&gt;Seeing other people already working on a similar problem isn’t just a non-issue, it's essential.&lt;/p&gt;
+
+&lt;h3 id="whats-the-key-job-your-users-are-trying-to-get-done"&gt;What’s the key job your users are trying to get done?&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href="https://blog.intercom.io/using-job-stories-design-features-ui-ux/"&gt;Jobs To Be Done (JTBD) framework&lt;/a&gt; forms everything around one question, "what job is our user trying to get done here?". Are they trying to see their notifications so they can make sure they haven’t missed a message about an item they’re selling? It cuts to the core of what’s going on.&lt;/p&gt;
+
+&lt;p&gt;The principles behind the JTBD framework can be applied to us when we’re working out whether an idea has legs. We should be looking to boil our core problem down to one key &lt;em&gt;job to be done&lt;/em&gt;. Once we have this job, we can search to find out how people are solving this problem already.&lt;/p&gt;
+
+&lt;p&gt;For example, if you’re looking to create a new app that scans and stores receipts, then you should be looking at how people are using tools like Evernote to solve this problem already.&lt;/p&gt;
+
+&lt;p&gt;How are they using Evernote to keep track? Why are they using Evernote? What steps do they have to take? What’s good about this solution? What’s bad?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://twitter.com/mijustin"&gt;Justin Jackson&lt;/a&gt; shares one way of finding answers to these questions: searching the places where people will likely be complaining about the issues they find. A great place to start is on Twitter. Searches like "Evernote problem" will give you a great starting point on some of the issues people are facing with Evernote.&lt;/p&gt;
+
+&lt;p&gt;If people aren’t trying to solve this problem already, and dissatisfied with their solution, then this isn’t a problem worth solving.&lt;/p&gt;
+
+&lt;h3 id="for-us-we-want-to-help-businesses-know-where-their-money-is-going"&gt;For us, we want to help businesses know where their money is going.&lt;/h3&gt;
+
+&lt;p&gt;The other day I was chatting to &lt;a href="https://twitter.com/sethlouey"&gt;Seth Louey&lt;/a&gt; about the problem we’re trying to solve with &lt;a href="https://prodigo.co/"&gt;Prodigo&lt;/a&gt;, seeing whether he experienced the problem and if he did, how he currently solved it.&lt;/p&gt;
+
+&lt;p&gt;Seth did have this problem, and pointed us to the tool he was currently using. From there we found other similar solutions, also trying to solve the problem of tracking where you’re spending your money.&lt;/p&gt;
+
+&lt;p&gt;My initial reaction was "oh it’s been done. Why are we working on this again?".&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I still want to be the genius who sweeps in with an amazing solution to a problem that no-one has ever thought of and will totally redefine a whole industry.&lt;/p&gt;
+
+&lt;p&gt;Naturally I want to feel like I’m the only one clever enough to have thought about this problem and proposed such an amazing solution. I want a blank space, I don’t want competitors already trying to solve this problem. I want it easy. Glorious.&lt;/p&gt;
+
+&lt;p&gt;Thankfully it was at this point I remembered our previous experience with our ‘Facebook for book readers’ idea, and what we’ve learnt since.&lt;/p&gt;
+
+&lt;p&gt;The fact that people are already trying to solve this problem isn’t a problem, it’s essential if we’re to have any success.&lt;/p&gt;
+
+&lt;p&gt;The only reason to look at completion is to find out 'do people care about this?’. Then go on and solve it better than anyone else for your audience.&lt;/p&gt;
+
+&lt;p&gt;So that’s what we’re going to do.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Super Powerful</title>
     <link rel="alternate" href="http://blog.url.com/2016/08/11/super-powerful/"/>
     <id>http://blog.url.com/2016/08/11/super-powerful/</id>
     <published>2016-08-11T01:00:00+01:00</published>
-    <updated>2016-08-11T13:36:06+01:00</updated>
+    <updated>2016-08-21T12:05:34+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -107,7 +197,7 @@
     <link rel="alternate" href="http://blog.url.com/2016/08/03/fumbling-forwards/"/>
     <id>http://blog.url.com/2016/08/03/fumbling-forwards/</id>
     <published>2016-08-04T00:29:00+01:00</published>
-    <updated>2016-08-07T19:10:20+01:00</updated>
+    <updated>2016-08-21T12:05:35+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
