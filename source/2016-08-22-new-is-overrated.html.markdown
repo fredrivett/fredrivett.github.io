@@ -1,6 +1,6 @@
 ---
 title: New Is Overrated
-date: 2016-08-21 10:58 UTC
+date: 2016-08-22 00:00 UTC
 tags: startups
 ---
 
