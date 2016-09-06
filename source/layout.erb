@@ -7,7 +7,7 @@
     <meta name="description" content="<%= current_article ? strip_tags(current_article.summary(140)) : 'You know, one of those maker types.' %>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title><%= current_article.title + ' | ' if current_article %>Fred Rivett</title>
+    <title><%= current_article.title.downcase.titleize + ' | ' if current_article %>Fred Rivett</title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
     <link rel="stylesheet" type="text/css" href="/css/app.css" />

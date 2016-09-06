@@ -89,6 +89,19 @@ page "/feed.xml", layout: false
 #   end
 # end
 
+# --- <freds edits> ------------------------------------------------------------
+# Helper to turn titles into title case
+# ref: http://stackoverflow.com/a/15005638/827129
+# note: to use on non-camelCase text chain after .downsize, eg:
+#  "string".downsize.titleize
+#  This stops titleize from adding extra spaces between any capitalised text.
+
+def titleize(str)
+  str.split(/ |\_/).map(&:capitalize).join(" ")
+end
+
+# --- </freds edits> ----------------------------------------------------------
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
