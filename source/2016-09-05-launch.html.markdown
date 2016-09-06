@@ -1,0 +1,120 @@
+---
+title: launch
+date: 2016-09-05 00:00 UTC
+tags: startups
+---
+
+---
+
+In this week’s blog post I attempt to answer the questions: *What does it look like to launch from the inside?* And *How on earth did we get to second on the Hacker News homepage?*
+
+If you like the sound of that, [this weeks episode of our new podcast, Hit Reply, is all about launching](https://hitreply.co/1) (sound of that, get it, get it?)
+
+Without further ado:
+
+---
+
+Last week we launched a new project that we’ve been discussing for a couple months, our first ever podcast, [Hit Reply](http://hitreply.co/).
+
+Hit Reply is a podcast that gives you an inside view on what it’s like to start a startup.
+
+For the past two years, we’ve spent our evenings, weekends and holidays building and launching stuff. Before that, we weren’t very good at launching. In fact, we were awful.
+
+Since doubling down on shipping side projects, [we’ve launched 9 in the last 2 years](https://www.producthunt.com/@fredrivett/collections/things-i-ve-made). Hit Reply, is our 10th.
+
+Hit Reply is a bit different to the rest. Most projects have one main "we’re here!" launch, when the curtain comes down and the masses (hopefully) swell in.
+
+Hit Reply though, is a podcast. We’ll be releasing a new episode *every week*. Every Tuesday, we get another shot at another little release.
+
+Podcasts have been growing in popularity. New podcast episodes can now vie for a place on [Product Hunt’s homepage](http://www.producthunt.com/). As well as that, lots of the tech folks over at [Hacker News](https://news.ycombinator.com/) listen to podcasts. A fact that we hadn’t quite fully realised.
+
+On Tuesday the countdown to our first episode had just ticked over to _0 days, 0 hours, 0 minutes_. It wasn’t live yet.
+
+I had the week off work, and I’d had quite a relaxed morning, going through my new morning routine. 10 minutes meditation. 5 minutes free flow writing. 10 ideas. Exercise.
+
+I’d underestimated how long it would take to make the final edits to our first episode, and the tweaks that we’d need to make to the website.
+
+About two and a half hours after our scheduled launch time, we were ready. [Episode 0: Yet Another Startup Podcast?](http://hitreply.co/) was live.
+
+We sent out our email to our weekly list, and that was that.
+
+The next day, a little later than planned, we submitted our first little episode to Product Hunt. We were keen to see how much traffic Product Hunt sent to podcast episodes.
+
+Within half an hour or so, it was doing relatively well, even competing with YCombinator’s interview with Jessica Livingston (spoiler: they won).
+
+As a sort of side note, we submitted the episode to Hacker News. For us, Hacker News is much more of a mystery. Due to the free-for-all nature and size of the system, we’re never quite sure what will happen when we submit something to Hacker News. You can easily get lost in the masses.
+
+We submitted it, and left it at that. A few minutes later we started to see some upvotes trickle in. Who was that? People were upvoting *our podcast?*
+
+About fifteen minutes in, I stumbled onto the homepage by accident. Wait, what’s going on? We’re #4 on the homepage? This can’t be right!?
+
+> Erm erm erm erm erm erm erm
+> We’re 4th on HN homepage? Am i reading this wrong?
+> <cite>[Tweet on the Twitters](https://twitter.com/FredRivett/status/770987008793702400)</cite>
+
+*It was right.* We were 4th on the Hacker News homepage.
+
+Then 3rd 😦
+
+> We’re now 3rd. THIRD. ON THE HACKERNEWS HOMEPAGE.
+> I don’t know whats happening anymore.
+> <cite>[Another tweet hits the twitters](https://twitter.com/FredRivett/status/770987971772375040)</cite>
+
+Then 2nd 😱
+
+> How is this getting evening happening
+> <cite>[Tweets keep rollin'](https://twitter.com/FredRivett/status/770988331584851968)</cite>
+
+Our little podcast was second on Hacker News.
+
+After a few minutes, it began to slide back down a few slots, and sat most of the day between 5th and 7th. A pretty handy place to be.
+
+So what did we learn from this?
+
+### Launch early
+
+The 80/20 rule states that, for many events, roughly 80% of the effects come from 20% of the causes.
+
+This rule applies to launching too. We can all get to a point where we have a website with our first episode recorded. **It’s often the feeling that you need to have all your ducks in a row that leads you to delay launching, oftentimes, forever.**
+
+The reason? *You’ll never have all your ducks in a row.* There will always be things that could be done better. Never has there been a to-do list that’s actually empty.
+
+The key to launching is to tick off the big wins. Get a website up. Record an episode with whatever equipment you have. Then share it.
+
+It’s really that simple.
+
+We specifically took shortcuts to get Hit Reply to launch now. Our website is a bunch of simple PHP files that I knocked together. It’s a systemised mess. Over the long term it will slow us down a little, but we can tweak on the journey.
+
+The CSS is just CSS, not Sass, which I’d normally use. This was due to a roadblock that we’d hit in a previous project, that took a while to get around. Doing it this way wasn’t as nice or as fast to develop, but got the job done so we could move on.
+
+We launched without being on iTunes. We weren’t even in apps like [Pocket Casts](http://www.shiftyjelly.com/pocketcasts/). People were wanting to subscribe on their favourite podcast app, and we weren’t there.
+
+_Did we launch too early?_
+
+No. I don’t think so. We had to get the ball rolling with the podcast, we knew it was time to launch. We planned to submit our podcast to iTunes after a few episodes, and honestly hadn’t heard of Pocket Casts.
+
+We forgot to add an RSS feed for people to use to subscribe on their platforms, but soon corrected this with some quick changes on launch day.
+
+Equally, with the unexpected masses flooding in, we added a quick [real time user counter](https://realtimeusers.bycontrast.co/), a project we’d worked on a couple months before, to the site.
+
+[https://twitter.com/FredRivett/status/770991865135005697](https://twitter.com/FredRivett/status/770991865135005697)
+
+### Where are we at now?
+
+Now, in the aftermath of the launch, what was the result?
+
+The podcast episode has had over [950 plays](http://hitreply.co/ep/0/yet-another-startup-podcast/), far more than we could have hoped for our initial launch.
+
+Our [twitter account](http://twitter.com/hitreplypod) has its first 21 followers (thanks). A small start, but nice nonetheless.
+
+We’ve had some great feedback and we now know that some people are interested in listening. This is a big plus and one of the key questions to ask yourself when you launch, does anyone care?
+
+But one of the biggest gains, [our email list](http://hitreply.co/) has had 57 new sign ups, boosting it up from 202 subscribers to 259. That’s a nice healthy jump.
+
+### Where do we go from here?
+
+Now’s where the real challenge kicks in. Shipping something is a milestone, an achievement of sorts. Our previous projects were the result of a challenge we set ourselves to get better at shipping stuff, but this is an ongoing project. Each week, a new episode. Consistency here is key.
+
+We’re excited to see how this grows. Our first ‘proper’ episode, [Episode 1, is all about launching](https://hitreply.co/1). Give it a listen if you’ve got a mo, and if you do, please **Hit Reply** and let us know what you think.
+
+Want to keep up to date with the podcast? Get a [small, simple email every Tuesday announcing the new episode](http://hitreply.co/), or [subscribe to our RSS](http://feeds.soundcloud.com/users/soundcloud:users:245437295/sounds.rss) in your favourite podcast player.
