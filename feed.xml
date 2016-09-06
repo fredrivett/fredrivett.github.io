@@ -5,10 +5,141 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-08-29T01:00:00+01:00</updated>
+  <updated>2016-09-05T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>launch</title>
+    <link rel="alternate" href="http://blog.url.com/2016/09/05/launch/"/>
+    <id>http://blog.url.com/2016/09/05/launch/</id>
+    <published>2016-09-05T01:00:00+01:00</published>
+    <updated>2016-09-06T11:36:59+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr /&gt;
+
+&lt;p&gt;In this week’s blog post I attempt to answer the questions: &lt;em&gt;What does it look like to launch from the inside?&lt;/em&gt; And &lt;em&gt;How on earth did we get to second on the Hacker News homepage?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you like the sound of that, &lt;a href="https://hitreply.co/1"&gt;this weeks episode of our new podcast, Hit Reply, is all about launching&lt;/a&gt; (sound of that, get it, get it?)&lt;/p&gt;
+
+&lt;p&gt;Without further ado:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Last week we launched a new project that we’ve been discussing for a couple months, our first ever podcast, &lt;a href="http://hitreply.co/"&gt;Hit Reply&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hit Reply is a podcast that gives you an inside view on what it’s like to start a startup.&lt;/p&gt;
+
+&lt;p&gt;For the past two years, we’ve spent our evenings, weekends and holidays building and launching stuff. Before that, we weren’t very good at launching. In fact, we were awful.&lt;/p&gt;
+
+&lt;p&gt;Since doubling down on shipping side projects, &lt;a href="https://www.producthunt.com/@fredrivett/collections/things-i-ve-made"&gt;we’ve launched 9 in the last 2 years&lt;/a&gt;. Hit Reply, is our 10th.&lt;/p&gt;
+
+&lt;p&gt;Hit Reply is a bit different to the rest. Most projects have one main "we’re here!" launch, when the curtain comes down and the masses (hopefully) swell in.&lt;/p&gt;
+
+&lt;p&gt;Hit Reply though, is a podcast. We’ll be releasing a new episode &lt;em&gt;every week&lt;/em&gt;. Every Tuesday, we get another shot at another little release.&lt;/p&gt;
+
+&lt;p&gt;Podcasts have been growing in popularity. New podcast episodes can now vie for a place on &lt;a href="http://www.producthunt.com/"&gt;Product Hunt’s homepage&lt;/a&gt;. As well as that, lots of the tech folks over at &lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt; listen to podcasts. A fact that we hadn’t quite fully realised.&lt;/p&gt;
+
+&lt;p&gt;On Tuesday the countdown to our first episode had just ticked over to &lt;em&gt;0 days, 0 hours, 0 minutes&lt;/em&gt;. It wasn’t live yet.&lt;/p&gt;
+
+&lt;p&gt;I had the week off work, and I’d had quite a relaxed morning, going through my new morning routine. 10 minutes meditation. 5 minutes free flow writing. 10 ideas. Exercise.&lt;/p&gt;
+
+&lt;p&gt;I’d underestimated how long it would take to make the final edits to our first episode, and the tweaks that we’d need to make to the website.&lt;/p&gt;
+
+&lt;p&gt;About two and a half hours after our scheduled launch time, we were ready. &lt;a href="http://hitreply.co/"&gt;Episode 0: Yet Another Startup Podcast?&lt;/a&gt; was live.&lt;/p&gt;
+
+&lt;p&gt;We sent out our email to our weekly list, and that was that.&lt;/p&gt;
+
+&lt;p&gt;The next day, a little later than planned, we submitted our first little episode to Product Hunt. We were keen to see how much traffic Product Hunt sent to podcast episodes.&lt;/p&gt;
+
+&lt;p&gt;Within half an hour or so, it was doing relatively well, even competing with YCombinator’s interview with Jessica Livingston (spoiler: they won).&lt;/p&gt;
+
+&lt;p&gt;As a sort of side note, we submitted the episode to Hacker News. For us, Hacker News is much more of a mystery. Due to the free-for-all nature and size of the system, we’re never quite sure what will happen when we submit something to Hacker News. You can easily get lost in the masses.&lt;/p&gt;
+
+&lt;p&gt;We submitted it, and left it at that. A few minutes later we started to see some upvotes trickle in. Who was that? People were upvoting &lt;em&gt;our podcast?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;About fifteen minutes in, I stumbled onto the homepage by accident. Wait, what’s going on? We’re #4 on the homepage? This can’t be right!?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Erm erm erm erm erm erm erm
+We’re 4th on HN homepage? Am i reading this wrong?
+&lt;cite&gt;&lt;a href="https://twitter.com/FredRivett/status/770987008793702400"&gt;Tweet on the Twitters&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;It was right.&lt;/em&gt; We were 4th on the Hacker News homepage.&lt;/p&gt;
+
+&lt;p&gt;Then 3rd 😦&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We’re now 3rd. THIRD. ON THE HACKERNEWS HOMEPAGE.
+I don’t know whats happening anymore.
+&lt;cite&gt;&lt;a href="https://twitter.com/FredRivett/status/770987971772375040"&gt;Another tweet hits the twitters&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then 2nd 😱&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How is this getting evening happening
+&lt;cite&gt;&lt;a href="https://twitter.com/FredRivett/status/770988331584851968"&gt;Tweets keep rollin'&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our little podcast was second on Hacker News.&lt;/p&gt;
+
+&lt;p&gt;After a few minutes, it began to slide back down a few slots, and sat most of the day between 5th and 7th. A pretty handy place to be.&lt;/p&gt;
+
+&lt;p&gt;So what did we learn from this?&lt;/p&gt;
+
+&lt;h3 id="launch-early"&gt;Launch early&lt;/h3&gt;
+
+&lt;p&gt;The 80/20 rule states that, for many events, roughly 80% of the effects come from 20% of the causes.&lt;/p&gt;
+
+&lt;p&gt;This rule applies to launching too. We can all get to a point where we have a website with our first episode recorded. &lt;strong&gt;It’s often the feeling that you need to have all your ducks in a row that leads you to delay launching, oftentimes, forever.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The reason? &lt;em&gt;You’ll never have all your ducks in a row.&lt;/em&gt; There will always be things that could be done better. Never has there been a to-do list that’s actually empty.&lt;/p&gt;
+
+&lt;p&gt;The key to launching is to tick off the big wins. Get a website up. Record an episode with whatever equipment you have. Then share it.&lt;/p&gt;
+
+&lt;p&gt;It’s really that simple.&lt;/p&gt;
+
+&lt;p&gt;We specifically took shortcuts to get Hit Reply to launch now. Our website is a bunch of simple PHP files that I knocked together. It’s a systemised mess. Over the long term it will slow us down a little, but we can tweak on the journey.&lt;/p&gt;
+
+&lt;p&gt;The CSS is just CSS, not Sass, which I’d normally use. This was due to a roadblock that we’d hit in a previous project, that took a while to get around. Doing it this way wasn’t as nice or as fast to develop, but got the job done so we could move on.&lt;/p&gt;
+
+&lt;p&gt;We launched without being on iTunes. We weren’t even in apps like &lt;a href="http://www.shiftyjelly.com/pocketcasts/"&gt;Pocket Casts&lt;/a&gt;. People were wanting to subscribe on their favourite podcast app, and we weren’t there.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Did we launch too early?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;No. I don’t think so. We had to get the ball rolling with the podcast, we knew it was time to launch. We planned to submit our podcast to iTunes after a few episodes, and honestly hadn’t heard of Pocket Casts.&lt;/p&gt;
+
+&lt;p&gt;We forgot to add an RSS feed for people to use to subscribe on their platforms, but soon corrected this with some quick changes on launch day.&lt;/p&gt;
+
+&lt;p&gt;Equally, with the unexpected masses flooding in, we added a quick &lt;a href="https://realtimeusers.bycontrast.co/"&gt;real time user counter&lt;/a&gt;, a project we’d worked on a couple months before, to the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/FredRivett/status/770991865135005697"&gt;https://twitter.com/FredRivett/status/770991865135005697&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="where-are-we-at-now"&gt;Where are we at now?&lt;/h3&gt;
+
+&lt;p&gt;Now, in the aftermath of the launch, what was the result?&lt;/p&gt;
+
+&lt;p&gt;The podcast episode has had over &lt;a href="http://hitreply.co/ep/0/yet-another-startup-podcast/"&gt;950 plays&lt;/a&gt;, far more than we could have hoped for our initial launch.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href="http://twitter.com/hitreplypod"&gt;twitter account&lt;/a&gt; has its first 21 followers (thanks). A small start, but nice nonetheless.&lt;/p&gt;
+
+&lt;p&gt;We’ve had some great feedback and we now know that some people are interested in listening. This is a big plus and one of the key questions to ask yourself when you launch, does anyone care?&lt;/p&gt;
+
+&lt;p&gt;But one of the biggest gains, &lt;a href="http://hitreply.co/"&gt;our email list&lt;/a&gt; has had 57 new sign ups, boosting it up from 202 subscribers to 259. That’s a nice healthy jump.&lt;/p&gt;
+
+&lt;h3 id="where-do-we-go-from-here"&gt;Where do we go from here?&lt;/h3&gt;
+
+&lt;p&gt;Now’s where the real challenge kicks in. Shipping something is a milestone, an achievement of sorts. Our previous projects were the result of a challenge we set ourselves to get better at shipping stuff, but this is an ongoing project. Each week, a new episode. Consistency here is key.&lt;/p&gt;
+
+&lt;p&gt;We’re excited to see how this grows. Our first ‘proper’ episode, &lt;a href="https://hitreply.co/1"&gt;Episode 1, is all about launching&lt;/a&gt;. Give it a listen if you’ve got a mo, and if you do, please &lt;strong&gt;Hit Reply&lt;/strong&gt; and let us know what you think.&lt;/p&gt;
+
+&lt;p&gt;Want to keep up to date with the podcast? Get a &lt;a href="http://hitreply.co/"&gt;small, simple email every Tuesday announcing the new episode&lt;/a&gt;, or &lt;a href="http://feeds.soundcloud.com/users/soundcloud:users:245437295/sounds.rss"&gt;subscribe to our RSS&lt;/a&gt; in your favourite podcast player.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Healthy Pressure</title>
     <link rel="alternate" href="http://blog.url.com/2016/08/29/healthy-pressure/"/>
@@ -365,144 +496,6 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href="https://learningtolaunch.co/"&gt;Did we mention we wrote a book. It’s free. Like, totally free. You should read it 👀 📖&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How To Start Out When You're Just Starting Out By Someone Just Starting Out</title>
-    <link rel="alternate" href="http://blog.url.com/2016/05/17/how-to-start-out-when-you-re-just-starting-out-by-someone-just-starting-out/"/>
-    <id>http://blog.url.com/2016/05/17/how-to-start-out-when-you-re-just-starting-out-by-someone-just-starting-out/</id>
-    <published>2016-05-17T01:00:00+01:00</published>
-    <updated>2016-08-07T20:38:02+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Disclaimer: This post consists of a brain dump of my current thoughts about how to best start a startup when doing it for the first time (which I currently am). I do not expect there to be only one way of doing this, this post is intended to spark discussion, so I would love to hear others opinions on this to see similarities / differences.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id="find-interesting-problems-whether-funserious-and-try-to-solve-them"&gt;1. Find interesting problems (whether fun/serious) and try to solve them&lt;/h4&gt;
-
-&lt;p&gt;From my experience, it’s a fair whack easier to try and solve problems &lt;em&gt;you’re intimately aware of&lt;/em&gt;, than to try and observe and fix problems &lt;em&gt;other people&lt;/em&gt; are experiencing.&lt;/p&gt;
-
-&lt;p&gt;It might sound obvious, but my approach to moving from where I am right now to where I want to be is &lt;em&gt;incremental&lt;/em&gt;. For a long time I used the approach of &lt;em&gt;shooting for the stars from day one&lt;/em&gt; and for a long time &lt;a href="http://wearecontrast.com/2014/11/introducing-sixbysix/"&gt;I failed to ship anything at all&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Therefore, it makes sense to me to keep things as simple as possible, all the while making progress. That means trying to solve a problem you’re experiencing, before trying to solve someone else’s.&lt;/p&gt;
-
-&lt;p&gt;There’s a lot of similarities between the two, but solving your own problems trims away the burden of observing other users and learning what their problems look like. Keep it simple. Start now.&lt;/p&gt;
-
-&lt;h4 id="build-quick-and-dirty-mvp"&gt;2. Build quick and dirty MVP&lt;/h4&gt;
-
-&lt;p&gt;This is what I’ve spent 90% of my spare time doing for the past year, along with my &lt;em&gt;partner-in-crime&lt;/em&gt;, &lt;a href="https://medium.com/u/67a4475456c"&gt;Mike&lt;/a&gt;. We realised our problem was trying to make a fully-featured perfect product from day one. We’ve learnt the hard way, spending years before learning this lesson. &lt;em&gt;It doesn’t work like that.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Instead, we committed to going from zero launches ever (unless you count &lt;a href="http://arethensawatchingme.com/"&gt;that silly little site&lt;/a&gt;) to &lt;a href="https://www.producthunt.com/@fredrivett/collections/things-i-ve-made"&gt;six in six months&lt;/a&gt;. We overshot on this by a few months, due to complications in the final project, but &lt;em&gt;learnt a tonne&lt;/em&gt; in the process.&lt;/p&gt;
-
-&lt;p&gt;Having the ability to take an idea, build it and launch it in the least time possible is a hugely important skill for wannabe entrepreneurs to learn. In my experience it has opened up a world of possibilities, knowing I can take an idea from concept to launch in a matter of weeks changes how I see potential projects.&lt;/p&gt;
-
-&lt;p&gt;Due to the fact we’re &lt;em&gt;solving our own problem&lt;/em&gt;, customer research here can be minimal at best. We built &lt;a href="http://flashtabs.co/"&gt;FlashTabs&lt;/a&gt; in a weekend, fixed the bugs in the evenings of the week following, then shipped it. We knew the problem, so quickly built a solution and put it in front of people.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In reality, this part is where most of us fall down. We have this grand vision, start building it, but then somewhere down the line, with no end in sight, we give up. Mike and I know this intimately having lived there for many years. As a result of that, and our progress since, we’ve spent the last few months writing a book on this topic.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There are so many “gotcha’s” that can cause our work to never see the light of day that we wanted to put it down in words so others can learn from some of the mistakes we’ve made.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We’re releasing it online, &lt;strong&gt;for free&lt;/strong&gt;, for anyone to read. Take a look. We’d love your feedback.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Read: &lt;a href="https://learningtolaunch.co/read"&gt;learningtolaunch.co/read&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id="launch-it"&gt;3. Launch it&lt;/h4&gt;
-
-&lt;p&gt;Put it out there. Push it out to people who might find it useful. Find communities where they hang out and share it there.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve built your thing, it’s time to share it. &lt;em&gt;This step is not optional.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Is it something the early adopter tech community might be interested in? Look at how you can get it on &lt;a href="https://www.producthunt.com/"&gt;Product Hunt&lt;/a&gt;, and post it up on &lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt;. Is there a &lt;a href="https://www.reddit.com/reddits/"&gt;sub-reddit&lt;/a&gt; where these people hang out? Post it there, explaining how you’re trying to solve a problem you’re experiencing and that you think they might be too. Write an introductory post on Medium.&lt;/p&gt;
-
-&lt;p&gt;Is it more niche? Think of a few places they hang out and go there. Just be sure to get some of your potential target market to get their eyeballs on it.&lt;/p&gt;
-
-&lt;h4 id="see-who-gravitates-towards-it"&gt;4. See who gravitates towards it&lt;/h4&gt;
-
-&lt;p&gt;Once you’ve built and launched your product, you should hope to see some users start to gravitate towards it. This might be a handful, or it might be hundreds, depending on what you’re building and how easily you can reach that market.&lt;/p&gt;
-
-&lt;p&gt;Equally, depending on what you’re building will dictate how much variety you’ll find in the audience that gathers.&lt;/p&gt;
-
-&lt;p&gt;If you’re building a relatively generic product, like a time tracker app, then you may find a variety of different types of users start using it, and each may have their own reasons for doing so.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, it makes sense that if what you’ve built is clearly aimed at a more specific use case, then there will likely be less variety in the crowd that gathers and less variety in their needs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://howsitgo.in/"&gt;HowsItGoin&lt;/a&gt; was launched as a very simple, generic web app to set and answer questions, tracking your results as you go. After launching we found a wide variety of ways people were using it, from fitness tracking, to journalling, to productivity tracking. There were many routes we could go and many problems we could focus on solving.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://founderskit.co/"&gt;FoundersKit&lt;/a&gt;, however, was a specific product aimed at a specific market. We knew exactly the type of user we wanted to attract before even we’d launched.&lt;/p&gt;
-
-&lt;p&gt;Either way, take stock of the crowd that you draw, and look at the different groups that form.&lt;/p&gt;
-
-&lt;h4 id="gather-feedback"&gt;5. Gather feedback&lt;/h4&gt;
-
-&lt;p&gt;Once you’ve launched, and you’ve got a bunch of people using your product, you should be actively looking to gather feedback on how it’s being used.&lt;/p&gt;
-
-&lt;p&gt;It’s here you’ll want to focus on what problems your users are trying to solve and how well your current product is solving these.&lt;/p&gt;
-
-&lt;p&gt;From our experience you can get a small initial batch of feedback (5–20 responses) from having a simple, prominent feedback call-to-action on your site. Tools like &lt;a href="https://www.typeform.com/"&gt;Typeform&lt;/a&gt; are perfect for this, taking minutes to setup and providing a simple UX for your users.&lt;/p&gt;
-
-&lt;p&gt;If users were prompted to enter their email address in the registration process then you can look into reaching out to your user base and talking to as many of them as are willing to jump on a call with you. If they aren’t happy to jump on a call, then you can fall back on emailing your questions or pointing them to your survey.&lt;/p&gt;
-
-&lt;p&gt;Talking to your users and hearing how they describe their problems and their thoughts on how well your product solves this (and vitally where it’s lacking) is invaluable.&lt;/p&gt;
-
-&lt;h4 id="consider-whether-this-is-a-market-you-want-to-address"&gt;6. Consider whether this is a market you want to address&lt;/h4&gt;
-
-&lt;p&gt;It might sound obvious, but just because a bunch of people are using your thing, you still need to work out if that’s a market you want to address.&lt;/p&gt;
-
-&lt;p&gt;For us, with FlashTabs, we’ve got a whole bunch of self-motivated, relatively tech savvy individuals looking to learn a new skill.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Do we want to target the B2C market? Do we still find this problem interesting enough to want to work on it and build it out? Can we ever see this making enough money to warrant the time invested in it?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For us these are questions we’ve mulled over a lot. We could spin off a different product aimed at the same niche (web software for education), we could leave FlashTabs on auto pilot as is, or we could double down on it for a while and see if we can take this to the next level.&lt;/p&gt;
-
-&lt;p&gt;At this stage you must decide, should I pivot or persevere?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;For more on this, be sure to read the staple twenty-first century entrepreneurs handbook, &lt;a href="http://theleanstartup.com/"&gt;The Lean Startup&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id="niche-down-hone-in-on-their-problems"&gt;7. Niche down, hone in on their problems&lt;/h4&gt;
-
-&lt;p&gt;Once you’ve got your product out in the wild, you’ve found a market that resonates with it, it’s time to hone in on the problems your users are facing and solve these as best you can.&lt;/p&gt;
-
-&lt;p&gt;Sure, I’m &lt;em&gt;massively&lt;/em&gt; oversimplifying this, a lot of blood, sweat and tears will be invested here, but now you’ve got a product and a market to work with. You’ve made a great start.&lt;/p&gt;
-
-&lt;p&gt;Be sure to solve a specific problems before considering whether to expand or not. This is the famed, elusive &lt;a href="http://www.startup-marketing.com/the-startup-pyramid/"&gt;product/market fit&lt;/a&gt; that every startup is so desperately searching for.&lt;/p&gt;
-
-&lt;p&gt;If at any stage you seriously consider whether this product and this niche can ever achieve your goals (which you probably will), it’s time to revisit point 6 above.&lt;/p&gt;
-
-&lt;h4 id="grow"&gt;8. …Grow?&lt;/h4&gt;
-
-&lt;p&gt;Once you’ve found that all elusive product/market fit, the real question is, what’s next? 99% of the time, in the startup world, that answer is grow grow grow. Take off. Shoot for the stars. And that’s a perfectly valid answer.&lt;/p&gt;
-
-&lt;p&gt;That said, it’s not always the route every entrepreneur wants to take. Not every entrepreneur envisions their life working 80 hour weeks, holding board meetings (growth requires capital requires investors) and taking their company public.&lt;/p&gt;
-
-&lt;p&gt;Every company is a lifestyle company, because surely you’re building a company because you want to live the lifestyle that comes with it?&lt;/p&gt;
-
-&lt;p&gt;As the kids say, &lt;a href="https://media.giphy.com/media/FuvVKU8Jxq1CE/giphy.gif"&gt;#yolo&lt;/a&gt;. If you don’t want to live the life of a big-time CEO of the next unicorn, &lt;em&gt;then don’t build that company.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For me, I want to create a great product, that helps people live better lives, and supports me and my family for years to come.&lt;/p&gt;
-
-&lt;p&gt;That might come in the form of running a large organisation, or it might come running a small, two person business for the rest of my life. Both (and everything in between) are viable options.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Want to learn to launch? Tired of never shipping your side projects? This book is for you. &lt;a href="https://learningtolaunch.co/read"&gt;Head over and read it, for free&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
   </entry>
