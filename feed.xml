@@ -5,16 +5,60 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-09-12T22:06:00+01:00</updated>
+  <updated>2016-09-19T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>burnout</title>
+    <link rel="alternate" href="http://blog.url.com/2016/09/19/burnout/"/>
+    <id>http://blog.url.com/2016/09/19/burnout/</id>
+    <published>2016-09-19T01:00:00+01:00</published>
+    <updated>2016-09-20T13:00:31+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr /&gt;
+
+&lt;p&gt;Like listening? We recorded an episode of our brand new podcast on this very topic. &lt;a href="https://hitreply.co/3"&gt;Listen to it here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Not letting one side outweigh and overpower the other.&lt;/p&gt;
+
+&lt;p&gt;Work and life. Should these be balanced? Or should they be one?&lt;/p&gt;
+
+&lt;p&gt;I’ve heard a &lt;a href="http://www.vanschneider.com/worklife-balance-is-bullsht/"&gt;couple&lt;/a&gt; &lt;a href="http://designlife.fm/episode36/"&gt;opinions&lt;/a&gt; recently that attempting to achieve work-life balance is solving the wrong problem. When work and life go hand in hand, there’s no need to balance them right? If one succeeds, so does the other. It’s not a zero sum game.&lt;/p&gt;
+
+&lt;p&gt;What then, are we to make of burnout?&lt;/p&gt;
+
+&lt;p&gt;Is burnout only something that occurs when you’re working on something that doesn’t resonate with the rest of your life? Is it only when you’re working for The Man, be it your boss, or your VC, or even yourself?&lt;/p&gt;
+
+&lt;p&gt;Sometimes we set ourselves unrealistic expectations, and drive ourselves to work every waking hour to get them done. For some of us, VC’s are putting an unspoken pressure on us that if we don’t work so hard that we sleep at our desks then we’re not really made for the entrepreneurial game. Sometimes our boss tells us of a hard deadline and we have to break ourselves just to get it done.&lt;/p&gt;
+
+&lt;p&gt;I’ve been watching the latter first hand the past couple months. &lt;a href="https://twitter.com/mikeaag"&gt;Mike&lt;/a&gt;, the guy I work with, co-founder, partner in crime extraordinaire, has been maxed out at work. He’s gone above and beyond his normal levels to fulfil a specific hard deadline at his day job. He’s running on empty, but feels like he needs to keep running to meet the requirements of his 9-5.&lt;/p&gt;
+
+&lt;p&gt;Mike loves what he does, and enjoys our work on the side too. He’d go as far as to say that the work we do with &lt;a href="http://wearecontrast.com/"&gt;Contrast&lt;/a&gt; is a hobby.&lt;/p&gt;
+
+&lt;p&gt;When your hobby is starting your own startup on the side, what does resting look like? Is it healthy to come home from an intense day at work and spend more time in the evening coding?&lt;/p&gt;
+
+&lt;p&gt;These are questions that I’ve been thinking about lately, in a bid to avoid making things worse.&lt;/p&gt;
+
+&lt;p&gt;What does it look like to be burnt out? I’ve not been there, but Mike’s pretty close. In this week’s episode of Hit Reply, I spoke with Mike about what it’s like from the inside, and our thoughts on whether it can be avoided, and if so, how.&lt;/p&gt;
+
+&lt;p&gt;Check it out: &lt;a href="https://soundcloud.com/hitreply/episode-3-burnout"&gt;https://soundcloud.com/hitreply/episode-3-burnout&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Each week I write a post and record a podcast episode. Get both in your inbox every Tuesday, free of charge. Sign up, no spam, I promise. &lt;a href="https://wearecontrast.com/signup"&gt;&lt;em&gt;Yes please&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>where are you going?</title>
     <link rel="alternate" href="http://blog.url.com/2016/09/12/where-are-you-going/"/>
     <id>http://blog.url.com/2016/09/12/where-are-you-going/</id>
     <published>2016-09-12T22:06:00+01:00</published>
-    <updated>2016-09-12T22:20:39+01:00</updated>
+    <updated>2016-09-20T12:59:56+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -141,7 +185,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Each week I wrote a post and record a podcast episode. Get both in your inbox every Tuesday, free of charge. Sign up, no spam, I promise. &lt;a href="https://wearecontrast.com/signup"&gt;&lt;em&gt;Yes please&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Each week I write a post and record a podcast episode. Get both in your inbox every Tuesday, free of charge. Sign up, no spam, I promise. &lt;a href="https://wearecontrast.com/signup"&gt;&lt;em&gt;Yes please&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -495,61 +539,6 @@ I don’t know whats happening anymore.
 &lt;p&gt;Write a blog post &lt;em&gt;and share it&lt;/em&gt;. Or if that's too much, hit reply to this post and let &lt;em&gt;me&lt;/em&gt; know.&lt;/p&gt;
 
 &lt;p&gt;I'd love to hear it.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Fumbling Forwards</title>
-    <link rel="alternate" href="http://blog.url.com/2016/08/03/fumbling-forwards/"/>
-    <id>http://blog.url.com/2016/08/03/fumbling-forwards/</id>
-    <published>2016-08-04T00:29:00+01:00</published>
-    <updated>2016-08-21T12:05:35+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;The other week &lt;a href="https://medium.com/@mijustin"&gt;Justin Jackson&lt;/a&gt; shared a quote, one that I desperately needed to hear. It was from a &lt;a href="https://medium.com/@pjrvs"&gt;Paul Jarvis&lt;/a&gt; post, with the basic premise that &lt;a href="https://medium.pjrvs.com/success-is-for-the-lucky-579e30576eb2#---0-112.sqaw038a0"&gt;success is no scientific endeavour&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is the only common thread with successful entrepreneurs: they keep trying different ideas until one sticks.
-&lt;cite&gt;&lt;a href="https://twitter.com/mijustin/status/756736947926827010"&gt;@mijustin on twitter&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;No-one likes to feel like they don’t have a clue what they’re doing. But that’s pretty much what starting a startup is like 24/7. Every day you wake up, and work on a bunch of tasks you were never trained to do. You attempt to solve a bunch of questions that you’ve never answered before. None of us really know what we’re doing, but it never looks like that. You look up at those who’ve experienced success, and wonder, do they have something I don’t?&lt;/p&gt;
-
-&lt;p&gt;Comparing ourselves to others isn’t the answer. Sure, it’s great to learn lessons from those we admire, but expecting to be able to compare the inside view of me now, at this point in the journey, to those towards the top, towards the peak of theirs, is never going to be much use other than to stress us out and demotivate.&lt;/p&gt;
-
-&lt;p&gt;The key to success isn’t having everything together with a five year plan of how you’re going to take over the world, but rather, it’s not letting the unknown, the new, put you off from moving forwards, instead using that as fuel, pushing you forwards into your next adventure.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It’s not ok to feel like you’re blagging your way through your startup. It’s essential. Anything else is delusion.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are no rules, you see. There are only best practices, that apply sometimes, not others, and evolve over time. It’s great to learn the basic rules of the game, but these will only serve to give you blurry guideposts to prompt further thought. There are no easily digestible ‘unpack and add water’ tips that will immediately push your startup forwards. There are just a bunch of ideas that have worked in the past and will probably give you a rough nudge in the right direction when you’re unsure which path you should be on.&lt;/p&gt;
-
-&lt;p&gt;We’re all fumbling forwards in the darkness, desperately trying to find the path forwards. And most of the time we don’t even know where forwards is, with nothing more than a very general sense of direction.&lt;/p&gt;
-
-&lt;p&gt;Your ducks will never be in order. You don’t one day graduate from startup school and receive a nice simple business where all the questions are answered and the path forwards is easy, simple and clear. The view from the top isn’t what it looks like from down here.&lt;/p&gt;
-
-&lt;p&gt;You don’t have less problems as you go forwards, you just have a different set. You graduate from one set of problems to the next.&lt;/p&gt;
-
-&lt;p&gt;If you’re like us, searching for the right problem to solve and product to build, then listening, brainstorming, testing and iterating are huge. Later, should we get there, customer service, scaling, hiring and leading likely await. Each step has its own challenges.&lt;/p&gt;
-
-&lt;p&gt;Right now I feel pretty lame about where we’re at. We’re committed to &lt;a href="https://prodigo.co/"&gt;starting our own startup&lt;/a&gt;, and it being successful, but we don’t even know if what we’re working on now will be what we’re working on in three months time.&lt;/p&gt;
-
-&lt;p&gt;But we’re learning. Learning about the audience we want to serve, about problems we enjoy solving, about ourselves. That’s all that can be said. We’re in a better place now than we were six months ago, that’s what matters.&lt;/p&gt;
-
-&lt;p&gt;Progress is incremental, remember that.&lt;/p&gt;
-
-&lt;p&gt;If you’re struggling with your startup, understand you’re not alone. Be sure to get accountable with where you’re at. I highly recommend joining a mastermind group that meets weekly to discuss current successes, failures and issues. If you’re not in one already, having this accountability, support, and outside perspective will be huge for you and your business. Reach out to a few like minded people on a similar path to you and see if they’re up for it too.&lt;/p&gt;
-
-&lt;p&gt;But most of all, don’t be ashamed of where you’re at, or what you’re doing. Be like us, just skeletons with flesh doing laps around the sun, desperately trying to work out what on earth we’re doing.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Are you struggling to keep on top of your startups monthly recurring expenses? We were, that’s why we’re building &lt;a href="https://prodigo.co/"&gt;prodigo&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Prodigo is a simple app that gives you actionable insights into the tools and services you’re paying for.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We’re early stage and would love to shape this with you. If you’re interested you can sign up at &lt;a href="https://prodigo.co/"&gt;prodigo.co&lt;/a&gt; ✍️  or &lt;a href="https://twitter.com/FredRivett"&gt;say hi and we can chat&lt;/a&gt; 👋&lt;/p&gt;
 </content>
   </entry>
 </feed>
