@@ -125,4 +125,4 @@ So take stock of your inputs, where you’re spending your time, but don’t gla
 
 ---
 
-Each week I wrote a post and record a podcast episode. Get both in your inbox every Tuesday, free of charge. Sign up, no spam, I promise. [*Yes please*](https://wearecontrast.com/signup)
+Each week I write a post and record a podcast episode. Get both in your inbox every Tuesday, free of charge. Sign up, no spam, I promise. [*Yes please*](https://wearecontrast.com/signup)
