@@ -10,7 +10,7 @@ Discomfort is healthy. As humans we need to regularly step outside our comfort z
 
 I was chatting to a buddy the other day about him potentially quitting his great job at a top tech startup in a beautiful city to move home with his parents and work on his own stuff.
 
-I had to laugh at good he had it, yet still felt like maybe this wasn’t where he should really be.
+I had to laugh at how good he had it, yet still felt like maybe this wasn’t where he should really be.
 
 Often discomfort is there for a reason, trying to tell us something. It’s saying “there’s something more, come explore it.”
 
