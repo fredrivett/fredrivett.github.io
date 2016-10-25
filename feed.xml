@@ -5,16 +5,67 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-10-09T17:00:00-07:00</updated>
+  <updated>2016-10-17T01:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title>Consistency</title>
+    <link rel="alternate" href="http://blog.url.com/2016/10/17/consistency/"/>
+    <id>http://blog.url.com/2016/10/17/consistency/</id>
+    <published>2016-10-17T01:00:00+01:00</published>
+    <updated>2016-10-25T21:12:03+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Consistency is one of the hardest things to achieve. Especially at the beginning. Creating a new habit, starting a new routine.&lt;/p&gt;
+
+&lt;p&gt;Whilst it is tough, consistency is also key. Without consistency you won’t ever get anywhere. With consistency, you can make true progress towards your goals.&lt;/p&gt;
+
+&lt;p&gt;Starting is easy. The initial rush of a new idea, new possibilities. You’re fresh. Not worn down. It’s a blank slate. Exciting.&lt;/p&gt;
+
+&lt;p&gt;The early days can be quite fun. Everything is new. Potential abounds. Launching can bring a little spike in traffic. Attention. Momentum. Vanity?&lt;/p&gt;
+
+&lt;p&gt;Once the early days are over though, normality sets in. Routine appears, and it’s greyscale. It’s not what it was. The initial spotlight fades, numbers drop, the quick wins evaporate, and all that’s left is, hard work?&lt;/p&gt;
+
+&lt;p&gt;This is the danger zone. The honeymoon period is over. You’re in a desert, losing water, eagles hovering overhead. Will you push through and find a way, or will you let the surroundings overwhelm you, stagnating, slowing, dying?&lt;/p&gt;
+
+&lt;p&gt;Consistency was born for such a time as this. Keep plodding on. One foot after the other. The road moving under you. You’re reeling it in.&lt;/p&gt;
+
+&lt;p&gt;Consistency is boring. Unattractive. Mundane. It’s quiet, whispering to you, let’s keep going. We’ve got a place to be. Onwards.&lt;/p&gt;
+
+&lt;p&gt;This mundane, quiet voice whispers to you just as the noise increases. This is new. This isn’t what you expected. This is hard. This isn’t for you.&lt;/p&gt;
+
+&lt;p&gt;You’re out of your depth.&lt;/p&gt;
+
+&lt;p&gt;But that’s the point. That’s where consistency takes you. To places you’ve not been before. To challenges you’ve not faced before. To adventures you’ve never dreamt of.&lt;/p&gt;
+
+&lt;p&gt;Consistency leads you. You strain to hear it’s voice over the noise. You catch glimpses. You cherish these. You feed off these.&lt;/p&gt;
+
+&lt;p&gt;As you continue, you find the noise doesn’t disappear, but you get used to it. You gain small victories over it. You begin to bottle these victories, and use them as fuel to push you forwards. The noise loses it’s edge.&lt;/p&gt;
+
+&lt;p&gt;You tune your ear to the beat of the drum. Today. Tomorrow. Again. Again.&lt;/p&gt;
+
+&lt;p&gt;Routine becomes habit. Habit becomes consistent. Consistent becomes us.&lt;/p&gt;
+
+&lt;p&gt;You fly.&lt;/p&gt;
+
+&lt;p&gt;You fly, over the noise, using it, and your victories over it, to keep you going. To stay aloft.&lt;/p&gt;
+
+&lt;p&gt;Your life is moving forwards. You’re making progress. You’re taking steps, each day. Each week you’ve moved on, each month, another stake in the ground.&lt;/p&gt;
+
+&lt;p&gt;Months pass. Years. You look back. Who was that person? They look familiar, yet, strange. Similar, yet different. They look like you, but they’re not you.&lt;/p&gt;
+
+&lt;p&gt;You’ve changed.&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
     <title>It's Hard</title>
     <link rel="alternate" href="http://blog.url.com/2016/10/10/its-hard/"/>
     <id>http://blog.url.com/2016/10/10/its-hard/</id>
-    <published>2016-10-09T17:00:00-07:00</published>
-    <updated>2016-10-17T08:56:28-07:00</updated>
+    <published>2016-10-10T01:00:00+01:00</published>
+    <updated>2016-10-17T16:56:28+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -52,8 +103,8 @@
     <title>Am I Doing It Right?</title>
     <link rel="alternate" href="http://blog.url.com/2016/10/03/am-i-doing-it-right/"/>
     <id>http://blog.url.com/2016/10/03/am-i-doing-it-right/</id>
-    <published>2016-10-02T17:00:00-07:00</published>
-    <updated>2016-10-04T00:53:27-07:00</updated>
+    <published>2016-10-03T01:00:00+01:00</published>
+    <updated>2016-10-04T08:53:27+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -84,8 +135,8 @@
     <title>discomfort</title>
     <link rel="alternate" href="http://blog.url.com/2016/09/26/discomfort/"/>
     <id>http://blog.url.com/2016/09/26/discomfort/</id>
-    <published>2016-09-25T17:00:00-07:00</published>
-    <updated>2016-09-27T07:08:33-07:00</updated>
+    <published>2016-09-26T01:00:00+01:00</published>
+    <updated>2016-09-27T15:08:33+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -156,8 +207,8 @@
     <title>burnout</title>
     <link rel="alternate" href="http://blog.url.com/2016/09/19/burnout/"/>
     <id>http://blog.url.com/2016/09/19/burnout/</id>
-    <published>2016-09-18T17:00:00-07:00</published>
-    <updated>2016-09-27T01:34:20-07:00</updated>
+    <published>2016-09-19T01:00:00+01:00</published>
+    <updated>2016-09-27T09:34:20+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -200,8 +251,8 @@
     <title>where are you going?</title>
     <link rel="alternate" href="http://blog.url.com/2016/09/12/where-are-you-going/"/>
     <id>http://blog.url.com/2016/09/12/where-are-you-going/</id>
-    <published>2016-09-12T14:06:00-07:00</published>
-    <updated>2016-09-20T04:59:56-07:00</updated>
+    <published>2016-09-12T22:06:00+01:00</published>
+    <updated>2016-09-20T12:59:56+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -329,139 +380,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;Each week I write a post and record a podcast episode. Get both in your inbox every Tuesday, free of charge. Sign up, no spam, I promise. &lt;a href="https://wearecontrast.com/signup"&gt;&lt;em&gt;Yes please&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>launch</title>
-    <link rel="alternate" href="http://blog.url.com/2016/09/05/launch/"/>
-    <id>http://blog.url.com/2016/09/05/launch/</id>
-    <published>2016-09-04T17:00:00-07:00</published>
-    <updated>2016-09-06T04:49:56-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;[You can also find this blog post &lt;a href="https://blog.wearecontrast.com/launch-c3968191a5b7"&gt;on Medium&lt;/a&gt;]&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In this week’s blog post I attempt to answer the questions: &lt;em&gt;What does it look like to launch from the inside?&lt;/em&gt; And &lt;em&gt;How on earth did we get to second on the Hacker News homepage?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If you like the sound of that, &lt;a href="https://hitreply.co/1"&gt;this weeks episode of our new podcast, Hit Reply, is all about launching&lt;/a&gt; (sound of that, get it, get it?)&lt;/p&gt;
-
-&lt;p&gt;Without further ado:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Last week we launched a new project that we’ve been discussing for a couple months, our first ever podcast, &lt;a href="http://hitreply.co/"&gt;Hit Reply&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hit Reply is a podcast that gives you an inside view on what it’s like to start a startup.&lt;/p&gt;
-
-&lt;p&gt;For the past two years, we’ve spent our evenings, weekends and holidays building and launching stuff. Before that, we weren’t very good at launching. In fact, we were awful.&lt;/p&gt;
-
-&lt;p&gt;Since doubling down on shipping side projects, &lt;a href="https://www.producthunt.com/@fredrivett/collections/things-i-ve-made"&gt;we’ve launched 9 in the last 2 years&lt;/a&gt;. Hit Reply, is our 10th.&lt;/p&gt;
-
-&lt;p&gt;Hit Reply is a bit different to the rest. Most projects have one main "we’re here!" launch, when the curtain comes down and the masses (hopefully) swell in.&lt;/p&gt;
-
-&lt;p&gt;Hit Reply though, is a podcast. We’ll be releasing a new episode &lt;em&gt;every week&lt;/em&gt;. Every Tuesday, we get another shot at another little release.&lt;/p&gt;
-
-&lt;p&gt;Podcasts have been growing in popularity. New podcast episodes can now vie for a place on &lt;a href="http://www.producthunt.com/"&gt;Product Hunt’s homepage&lt;/a&gt;. As well as that, lots of the tech folks over at &lt;a href="https://news.ycombinator.com/"&gt;Hacker News&lt;/a&gt; listen to podcasts. A fact that we hadn’t quite fully realised.&lt;/p&gt;
-
-&lt;p&gt;On Tuesday the countdown to our first episode had just ticked over to &lt;em&gt;0 days, 0 hours, 0 minutes&lt;/em&gt;. It wasn’t live yet.&lt;/p&gt;
-
-&lt;p&gt;I had the week off work, and I’d had quite a relaxed morning, going through my new morning routine. 10 minutes meditation. 5 minutes free flow writing. 10 ideas. Exercise.&lt;/p&gt;
-
-&lt;p&gt;I’d underestimated how long it would take to make the final edits to our first episode, and the tweaks that we’d need to make to the website.&lt;/p&gt;
-
-&lt;p&gt;About two and a half hours after our scheduled launch time, we were ready. &lt;a href="http://hitreply.co/"&gt;Episode 0: Yet Another Startup Podcast?&lt;/a&gt; was live.&lt;/p&gt;
-
-&lt;p&gt;We sent out our email to our weekly list, and that was that.&lt;/p&gt;
-
-&lt;p&gt;The next day, a little later than planned, we submitted our first little episode to Product Hunt. We were keen to see how much traffic Product Hunt sent to podcast episodes.&lt;/p&gt;
-
-&lt;p&gt;Within half an hour or so, it was doing relatively well, even competing with YCombinator’s interview with Jessica Livingston (spoiler: they won).&lt;/p&gt;
-
-&lt;p&gt;As a sort of side note, we submitted the episode to Hacker News. For us, Hacker News is much more of a mystery. Due to the free-for-all nature and size of the system, we’re never quite sure what will happen when we submit something to Hacker News. You can easily get lost in the masses.&lt;/p&gt;
-
-&lt;p&gt;We submitted it, and left it at that. A few minutes later we started to see some upvotes trickle in. Who was that? People were upvoting &lt;em&gt;our podcast?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;About fifteen minutes in, I stumbled onto the homepage by accident. Wait, what’s going on? We’re #4 on the homepage? This can’t be right!?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Erm erm erm erm erm erm erm
-We’re 4th on HN homepage? Am i reading this wrong?
-&lt;cite&gt;&lt;a href="https://twitter.com/FredRivett/status/770987008793702400"&gt;Tweet on the Twitters&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;It was right.&lt;/em&gt; We were 4th on the Hacker News homepage.&lt;/p&gt;
-
-&lt;p&gt;Then 3rd 😦&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We’re now 3rd. THIRD. ON THE HACKERNEWS HOMEPAGE.
-I don’t know whats happening anymore.
-&lt;cite&gt;&lt;a href="https://twitter.com/FredRivett/status/770987971772375040"&gt;Another tweet hits the twitters&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Then 2nd 😱&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How is this getting evening happening
-&lt;cite&gt;&lt;a href="https://twitter.com/FredRivett/status/770988331584851968"&gt;Tweets keep rollin'&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Our little podcast was second on Hacker News.&lt;/p&gt;
-
-&lt;p&gt;After a few minutes, it began to slide back down a few slots, and sat most of the day between 5th and 7th. A pretty handy place to be.&lt;/p&gt;
-
-&lt;p&gt;So what did we learn from this?&lt;/p&gt;
-
-&lt;h3 id="launch-early"&gt;Launch early&lt;/h3&gt;
-
-&lt;p&gt;The 80/20 rule states that, for many events, roughly 80% of the effects come from 20% of the causes.&lt;/p&gt;
-
-&lt;p&gt;This rule applies to launching too. We can all get to a point where we have a website with our first episode recorded. &lt;strong&gt;It’s often the feeling that you need to have all your ducks in a row that leads you to delay launching, oftentimes, forever.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The reason? &lt;em&gt;You’ll never have all your ducks in a row.&lt;/em&gt; There will always be things that could be done better. Never has there been a to-do list that’s actually empty.&lt;/p&gt;
-
-&lt;p&gt;The key to launching is to tick off the big wins. Get a website up. Record an episode with whatever equipment you have. Then share it.&lt;/p&gt;
-
-&lt;p&gt;It’s really that simple.&lt;/p&gt;
-
-&lt;p&gt;We specifically took shortcuts to get Hit Reply to launch now. Our website is a bunch of simple PHP files that I knocked together. It’s a systemised mess. Over the long term it will slow us down a little, but we can tweak on the journey.&lt;/p&gt;
-
-&lt;p&gt;The CSS is just CSS, not Sass, which I’d normally use. This was due to a roadblock that we’d hit in a previous project, that took a while to get around. Doing it this way wasn’t as nice or as fast to develop, but got the job done so we could move on.&lt;/p&gt;
-
-&lt;p&gt;We launched without being on iTunes. We weren’t even in apps like &lt;a href="http://www.shiftyjelly.com/pocketcasts/"&gt;Pocket Casts&lt;/a&gt;. People were wanting to subscribe on their favourite podcast app, and we weren’t there.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Did we launch too early?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;No. I don’t think so. We had to get the ball rolling with the podcast, we knew it was time to launch. We planned to submit our podcast to iTunes after a few episodes, and honestly hadn’t heard of Pocket Casts.&lt;/p&gt;
-
-&lt;p&gt;We forgot to add an RSS feed for people to use to subscribe on their platforms, but soon corrected this with some quick changes on launch day.&lt;/p&gt;
-
-&lt;p&gt;Equally, with the unexpected masses flooding in, we added a quick &lt;a href="https://realtimeusers.bycontrast.co/"&gt;real time user counter&lt;/a&gt;, a project we’d worked on a couple months before, to the site.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://twitter.com/FredRivett/status/770991865135005697"&gt;https://twitter.com/FredRivett/status/770991865135005697&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="where-are-we-at-now"&gt;Where are we at now?&lt;/h3&gt;
-
-&lt;p&gt;Now, in the aftermath of the launch, what was the result?&lt;/p&gt;
-
-&lt;p&gt;The podcast episode has had over &lt;a href="http://hitreply.co/ep/0/yet-another-startup-podcast/"&gt;950 plays&lt;/a&gt;, far more than we could have hoped for our initial launch.&lt;/p&gt;
-
-&lt;p&gt;Our &lt;a href="http://twitter.com/hitreplypod"&gt;twitter account&lt;/a&gt; has its first 21 followers (thanks). A small start, but nice nonetheless.&lt;/p&gt;
-
-&lt;p&gt;We’ve had some great feedback and we now know that some people are interested in listening. This is a big plus and one of the key questions to ask yourself when you launch, does anyone care?&lt;/p&gt;
-
-&lt;p&gt;But one of the biggest gains, &lt;a href="http://hitreply.co/"&gt;our email list&lt;/a&gt; has had 57 new sign ups, boosting it up from 202 subscribers to 259. That’s a nice healthy jump.&lt;/p&gt;
-
-&lt;h3 id="where-do-we-go-from-here"&gt;Where do we go from here?&lt;/h3&gt;
-
-&lt;p&gt;Now’s where the real challenge kicks in. Shipping something is a milestone, an achievement of sorts. Our previous projects were the result of a challenge we set ourselves to get better at shipping stuff, but this is an ongoing project. Each week, a new episode. Consistency here is key.&lt;/p&gt;
-
-&lt;p&gt;We’re excited to see how this grows. Our first ‘proper’ episode, &lt;a href="https://hitreply.co/1"&gt;Episode 1, is all about launching&lt;/a&gt;. Give it a listen if you’ve got a mo, and if you do, please &lt;strong&gt;Hit Reply&lt;/strong&gt; and let us know what you think.&lt;/p&gt;
-
-&lt;p&gt;Want to keep up to date with the podcast? Get a &lt;a href="http://hitreply.co/"&gt;small, simple email every Tuesday announcing the new episode&lt;/a&gt;, or &lt;a href="http://feeds.soundcloud.com/users/soundcloud:users:245437295/sounds.rss"&gt;subscribe to our RSS&lt;/a&gt; in your favourite podcast player.&lt;/p&gt;
 </content>
   </entry>
 </feed>
