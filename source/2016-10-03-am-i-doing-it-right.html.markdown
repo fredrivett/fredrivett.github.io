@@ -2,6 +2,7 @@
 title: Am I Doing It Right?
 date: 2016-10-03 00:00 UTC
 tags: life
+medium: https://blog.wearecontrast.com/am-i-doing-it-right-dac87a4a8191
 ---
 
 Am I on the right path? Am I making the _right_ decisions? I wonder about this a lot. If you’ve any ambition then it’s probably one that goes around in your head, too.

@@ -7,16 +7,21 @@
   <div class="o_spacer o_spacer--large">
     <div class="container">
       <div class="nine columns centered">
-        <article class="t_emphasise">
-          <header class="c_article-head">
-            <h1 class="c_article-head__title"><%= current_article.title if current_article.title %></h1>
-            <time class="c_article-head__date" datetime="<%= current_article.date.strftime('%Y-%m-%dT%l:%M:%S%z') if current_article.date %>" title="<%= current_article.date.strftime('%Y-%m-%d') if current_article.date %>">
-              <%= current_article.date.strftime('%b %e \'%y') if current_article.date %>
-            </time>
-          </header>
+        <div class="t_emphasise">
+          <article>
+            <header class="c_article-head">
+              <h1 class="c_article-head__title"><%= current_article.title if current_article.title %></h1>
+              <time class="c_article-head__date" datetime="<%= current_article.date.strftime('%Y-%m-%dT%l:%M:%S%z') if current_article.date %>" title="<%= current_article.date.strftime('%Y-%m-%d') if current_article.date %>">
+                <%= current_article.date.strftime('%b %e \'%y') if current_article.date %>
+              </time>
+            </header>
 
-          <%= yield %>
-        </article>
+            <%= yield %>
+          </article>
+
+          <hr>
+          <%= partial "post-links" %>
+        </div>
 
         <hr>
         <%= partial "rtu" %>

@@ -1,0 +1,25 @@
+<% require 'uri' %>
+
+<%
+  uri = URI.parse("https://twitter.com/intent/tweet")
+  uri.query = URI.encode_www_form([
+    ["text", current_article.title + " – @fredrivett" + "\n\n" + "https://fredrivett.com" + current_article.url]
+  ])
+
+  tweet = link_to "Twitters", uri.to_s, html_options = { "target": "_blank" }
+%>
+
+<p>
+  Liked this post?
+  <strong>
+  <% if current_article.data.medium %>
+    <br>Show some &hearts; on
+    <%= link_to("Medium", current_article.data.medium) %>,
+    and &phone; the world on
+    <%= tweet %>
+  <% else %>
+    &phone; the world on
+    <%= tweet %>
+  <% end %>
+  </strong>
+</p>
