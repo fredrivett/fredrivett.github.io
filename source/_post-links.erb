@@ -6,7 +6,7 @@
     ["text", current_article.title + " – @fredrivett" + "\n\n" + "https://fredrivett.com" + current_article.url]
   ])
 
-  tweet = link_to "Twitters", uri.to_s, html_options = { "target": "_blank" }
+  tweet = link_to "Twitters", uri.to_s, target: "_blank"
 %>
 
 <p>
@@ -14,7 +14,7 @@
   <strong>
   <% if current_article.data.medium %>
     <br>Show some &hearts; on
-    <%= link_to("Medium", current_article.data.medium) %>,
+    <%= link_to("Medium", current_article.data.medium, target: "_blank") %>,
     and &phone; the world on
     <%= tweet %>
   <% else %>
