@@ -2,6 +2,7 @@
 title: Create Your Own Path
 date: 2016-10-31 08:27 UTC
 tags: startup, maker, life
+medium: https://medium.com/swlh/create-your-own-path-b5d98c5bb50a#.o8omp0lns
 ---
 
 I’ve spent the past six months thinking about this. It’s been on the back of my mind constantly, and at the front often.
