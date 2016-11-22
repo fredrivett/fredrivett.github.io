@@ -5,10 +5,43 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-11-14T09:16:00+00:00</updated>
+  <updated>2016-11-21T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Perfect</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/21/perfect/"/>
+    <id>http://blog.url.com/2016/11/21/perfect/</id>
+    <published>2016-11-21T00:00:00+00:00</published>
+    <updated>2016-11-22T08:40:22+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;But.&lt;/p&gt;
+
+&lt;p&gt;But it’s flawed.
+But there’s competitors.
+But it’ll be hard.
+But I don’t know how.&lt;/p&gt;
+
+&lt;p&gt;It’s so easy to let but stop us. It stops us from taking steps forwards, for fear that it might not work out. Fear that we’ll waste our time.&lt;/p&gt;
+
+&lt;p&gt;So instead, we wait for perfect. We wait for that moment when &lt;em&gt;the idea&lt;/em&gt; comes. We wait for &lt;em&gt;the one&lt;/em&gt;, that’s a sweet combination of unique genius, no competition, that requires nothing new from us, no new learning, everything is  known.&lt;/p&gt;
+
+&lt;p&gt;We wait. But the idea never comes. Nothing quite holds up. Everything has a reason to stop us pursuing it. But. But. But.&lt;/p&gt;
+
+&lt;p&gt;Perfection freezes us in our tracks. It stops us from ever moving forwards. At some point we’ve got to leave perfection behind, and move ahead into the unknown.&lt;/p&gt;
+
+&lt;p&gt;Dance with the idea. Play with it. Try things out. Embrace the frailties, embrace the unknown. Embrace the likelihood of failure.&lt;/p&gt;
+
+&lt;p&gt;Stop waiting for the perfect moment.
+Stop waiting for the perfect problem.
+Stop waiting for the perfect team.&lt;/p&gt;
+
+&lt;p&gt;Start.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>It's time for change</title>
     <link rel="alternate" href="http://blog.url.com/2016/11/14/it-s-time-for-change/"/>
@@ -245,45 +278,6 @@
 
 &lt;p&gt;You’ve changed.&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>It's Hard</title>
-    <link rel="alternate" href="http://blog.url.com/2016/10/10/its-hard/"/>
-    <id>http://blog.url.com/2016/10/10/its-hard/</id>
-    <published>2016-10-10T01:00:00+01:00</published>
-    <updated>2016-10-17T16:56:28+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;This past week Mike and I have been travelling through California. It’s been great to come out here, get some time away from the day job and our side projects and gain some new perspective on it all.&lt;/p&gt;
-
-&lt;p&gt;A couple months back we did something new: we started a podcast. It was something we’ve been thinking about doing for a while, and we finally decided to go for it.&lt;/p&gt;
-
-&lt;p&gt;We knew that it would be tough to start out, but the reality of a new routine is always different to the idea of it.&lt;/p&gt;
-
-&lt;p&gt;We’ve spent nearly all of our spare time the past couple months on the podcast. We often each spend a few hours prepping the episode, then the same again recording it, to release a short 20 minute episode to our ~300 listeners at the end. Is this worth it?&lt;/p&gt;
-
-&lt;p&gt;I don’t know the answer. Time spent on one thing is time not spent on another. Should we be spending more time on starting a startup or building an audience?&lt;/p&gt;
-
-&lt;p&gt;Is the format of the show right? Can we optimise it to have a better ROI from our time?&lt;/p&gt;
-
-&lt;p&gt;Knowing how to spend our time is hard. Especially with new routines. The reality is we spend more time at the start for less return. If we keep podcasting for a year, and do a decent job of promoting it, we’ll have more listeners, more &lt;em&gt;engaged&lt;/em&gt; listeners, whilst spending less time on it, having gotten used to and optimised the process.&lt;/p&gt;
-
-&lt;p&gt;Every project has some version of the &lt;a href="http://andrewchen.co/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/"&gt;trough of sorrow&lt;/a&gt;. Once the initial buzz of launching wears off, you’re just left with the hard work of doing something new over and over again.&lt;/p&gt;
-
-&lt;p&gt;It’s normally a few months into a project that we start to feel this pressure. The quick wins are over, the initial momentum slows a little, the reality looks different to the dream.&lt;/p&gt;
-
-&lt;p&gt;It’s easy to want to move on when a new habit takes longer to stick or is harder than we thought, but that’s only ever the answer if there’s truly something better to change &lt;em&gt;to&lt;/em&gt;. At some point we’ve got to stick at something, get good at it, and play the long game. No-one ever achieved anything great by continually restarting over and over. Restarts are useful only if they’re followed by commitment and hard work.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;"Opportunity is missed by most people because it is dressed in overalls and looks like work."
-&lt;cite&gt;Thomas Edison&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Right now it’s too early to tell. We’re still finding our feet podcasting, trying to find the format that works, the balance of quality and time spent. This experiment doesn’t have enough data to be statistically significant yet.&lt;/p&gt;
-
-&lt;p&gt;For us, it’s time to move onwards, to push through the post launch slump and continue the experiment, all the while asking, &lt;em&gt;"is this the best use of our time?".&lt;/em&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
