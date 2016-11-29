@@ -5,10 +5,56 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-11-21T00:00:00+00:00</updated>
+  <updated>2016-11-28T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>That's the problem</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/28/that-s-the-problem/"/>
+    <id>http://blog.url.com/2016/11/28/that-s-the-problem/</id>
+    <published>2016-11-28T00:00:00+00:00</published>
+    <updated>2016-11-29T09:47:57+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I was looking through our problem/idea list recently, and a few ideas jumped out.&lt;/p&gt;
+
+&lt;p&gt;One of those was an idea for goal tracking for teams. It was born from a personal pain point as an employee at a company that used to set short, medium and long term goals. The only issue was, they never told us what they were.&lt;/p&gt;
+
+&lt;p&gt;So I got thinking. What if I built something to solve this problem?&lt;/p&gt;
+
+&lt;p&gt;The solution I had in mind was just a simple system of logging goals, sharing and viewing them. The pain point was getting everyone on the same page. And it turns out &lt;em&gt;that was the problem.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I asked about this in &lt;a href="http://startupfoundation.co/hashtag_startup/"&gt;Startup Chat&lt;/a&gt; recently, and someone mentioned how at her company of 30 they use a simple Google doc. No fancy software, just a simple shared doc.&lt;/p&gt;
+
+&lt;p&gt;This surprised me. For a team of 30 I envisioned them using some purpose built tool with a few extra features, not a simple Google doc.&lt;/p&gt;
+
+&lt;p&gt;But then I remembered something &lt;a href="https://twitter.com/mijustin"&gt;Justin Jackson&lt;/a&gt; said a while back in his post, &lt;a href="https://justinjackson.ca/we-are-not-normal-people/"&gt;we are not normal people&lt;/a&gt;. He was at his barbers, dreaming of how he could improve their scheduling setup. How he could build out a new software solution that would bring the hairdressers archaic paper system into the twenty-first century.&lt;/p&gt;
+
+&lt;p&gt;It turns out, his barber had already tried out a bunch of software solutions, likely from similar conversations had with other tech minded clients, and they were all horrible.&lt;/p&gt;
+
+&lt;p&gt;One particular point of Justin’s story stands out. His barber said this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;"All the software I’ve tried just gets in the way."&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is key. Software, far from being a knight in shining armour, was actually overkill for him. An unnecessary burden. It was a more complicated process than simply looking at a paper calendar and writing directly on that. It wasn’t a problem he was motivated to solve because the core of the pain point was solved in the simplest way possible.&lt;/p&gt;
+
+&lt;p&gt;Any software solution might make gains on the periphery but the core issue was already solved for the one that mattered. The barber was the one who used the system and who decided how their businesses money would be spent, and they were not motivated to fix this problem because they didn’t see it as a problem.&lt;/p&gt;
+
+&lt;p&gt;The same goes for my company goal tracking idea. There could be some gains made by using a purpose built piece of software, but the core task of logging goals and being able to view them was already solved. It’s solved by whiteboards and it’s solved by shared docs.&lt;/p&gt;
+
+&lt;p&gt;The problem, in my mind, was getting everyone &lt;em&gt;on the same page.&lt;/em&gt; The issue with this idea was that the tools they were using already did this, quite literally.&lt;/p&gt;
+
+&lt;p&gt;In development terms, all I was looking to create was a glorified &lt;a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete"&gt;CRUD&lt;/a&gt;. Create goals. Read goals. Update goals. Delete goals. Whiteboards or shared docs are the best solution for this for a lot of companies.&lt;/p&gt;
+
+&lt;p&gt;This is a common problem. &lt;em&gt;The problem entrepreneurs have with problems.&lt;/em&gt; As creative entrepreneurial types, we’re always on the lookout for problems we can solve. Processes we can improve. Shiny things we can create.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to try and create systems and solutions that are complex and beautiful but people just want the easiest, simplest way to get the job done. Often that’s using a tool they already have and know how to use. A new shiny interface isn’t a plus, it’s a hindrance.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Perfect</title>
     <link rel="alternate" href="http://blog.url.com/2016/11/21/perfect/"/>
@@ -229,57 +275,6 @@ Stop waiting for the perfect team.&lt;/p&gt;
 &lt;p&gt;Don’t be one of the immovables. Life’s too short. Join us, the movers, as we wander the terrain, exploring, learning, growing.&lt;/p&gt;
 
 &lt;p&gt;Take action today. Start small. Do &lt;em&gt;something&lt;/em&gt;. You were born to live.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Consistency</title>
-    <link rel="alternate" href="http://blog.url.com/2016/10/17/consistency/"/>
-    <id>http://blog.url.com/2016/10/17/consistency/</id>
-    <published>2016-10-17T01:00:00+01:00</published>
-    <updated>2016-10-25T21:12:03+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Consistency is one of the hardest things to achieve. Especially at the beginning. Creating a new habit, starting a new routine.&lt;/p&gt;
-
-&lt;p&gt;Whilst it is tough, consistency is also key. Without consistency you won’t ever get anywhere. With consistency, you can make true progress towards your goals.&lt;/p&gt;
-
-&lt;p&gt;Starting is easy. The initial rush of a new idea, new possibilities. You’re fresh. Not worn down. It’s a blank slate. Exciting.&lt;/p&gt;
-
-&lt;p&gt;The early days can be quite fun. Everything is new. Potential abounds. Launching can bring a little spike in traffic. Attention. Momentum. Vanity?&lt;/p&gt;
-
-&lt;p&gt;Once the early days are over though, normality sets in. Routine appears, and it’s greyscale. It’s not what it was. The initial spotlight fades, numbers drop, the quick wins evaporate, and all that’s left is, hard work?&lt;/p&gt;
-
-&lt;p&gt;This is the danger zone. The honeymoon period is over. You’re in a desert, losing water, eagles hovering overhead. Will you push through and find a way, or will you let the surroundings overwhelm you, stagnating, slowing, dying?&lt;/p&gt;
-
-&lt;p&gt;Consistency was born for such a time as this. Keep plodding on. One foot after the other. The road moving under you. You’re reeling it in.&lt;/p&gt;
-
-&lt;p&gt;Consistency is boring. Unattractive. Mundane. It’s quiet, whispering to you, let’s keep going. We’ve got a place to be. Onwards.&lt;/p&gt;
-
-&lt;p&gt;This mundane, quiet voice whispers to you just as the noise increases. This is new. This isn’t what you expected. This is hard. This isn’t for you.&lt;/p&gt;
-
-&lt;p&gt;You’re out of your depth.&lt;/p&gt;
-
-&lt;p&gt;But that’s the point. That’s where consistency takes you. To places you’ve not been before. To challenges you’ve not faced before. To adventures you’ve never dreamt of.&lt;/p&gt;
-
-&lt;p&gt;Consistency leads you. You strain to hear it’s voice over the noise. You catch glimpses. You cherish these. You feed off these.&lt;/p&gt;
-
-&lt;p&gt;As you continue, you find the noise doesn’t disappear, but you get used to it. You gain small victories over it. You begin to bottle these victories, and use them as fuel to push you forwards. The noise loses it’s edge.&lt;/p&gt;
-
-&lt;p&gt;You tune your ear to the beat of the drum. Today. Tomorrow. Again. Again.&lt;/p&gt;
-
-&lt;p&gt;Routine becomes habit. Habit becomes consistent. Consistent becomes us.&lt;/p&gt;
-
-&lt;p&gt;You fly.&lt;/p&gt;
-
-&lt;p&gt;You fly, over the noise, using it, and your victories over it, to keep you going. To stay aloft.&lt;/p&gt;
-
-&lt;p&gt;Your life is moving forwards. You’re making progress. You’re taking steps, each day. Each week you’ve moved on, each month, another stake in the ground.&lt;/p&gt;
-
-&lt;p&gt;Months pass. Years. You look back. Who was that person? They look familiar, yet, strange. Similar, yet different. They look like you, but they’re not you.&lt;/p&gt;
-
-&lt;p&gt;You’ve changed.&lt;/p&gt;
-
 </content>
   </entry>
 </feed>
