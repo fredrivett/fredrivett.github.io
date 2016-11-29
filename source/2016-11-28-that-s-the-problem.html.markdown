@@ -1,6 +1,6 @@
 ---
 title: That's the problem
-date: 2017-11-28 00:00 UTC
+date: 2016-11-28 00:00 UTC
 tags: startup, ideas
 ---
 
