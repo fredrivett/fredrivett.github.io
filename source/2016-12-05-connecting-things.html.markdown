@@ -1,6 +1,6 @@
 ---
 title: Connecting Things
-date: 2017-12-05 00:00 UTC
+date: 2016-12-05 00:00 UTC
 tags: startup, ideas
 ---
 
