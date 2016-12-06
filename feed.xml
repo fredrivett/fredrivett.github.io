@@ -5,10 +5,63 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-11-28T00:00:00+00:00</updated>
+  <updated>2016-12-05T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Connecting Things</title>
+    <link rel="alternate" href="http://blog.url.com/2016/12/05/connecting-things/"/>
+    <id>http://blog.url.com/2016/12/05/connecting-things/</id>
+    <published>2016-12-05T00:00:00+00:00</published>
+    <updated>2016-12-06T10:37:16+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Solving problems is at the heart of any great product or business. Behind every shiny product or lightbulb idea is a real problem being solved.&lt;/p&gt;
+
+&lt;p&gt;When trying to solve a problem, there are two key activities we must undertake, data gathering and data connecting. The more data points you gather, the more you’ll have to connect together to form creative patterns. As Steve Jobs said, &lt;em&gt;“creativity is just connecting things.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The best way to make the best data connections is to collect two types of data, specific and generic.&lt;/p&gt;
+
+&lt;p&gt;Specific data is the information you learn about the problem you’re trying to solve. So if you’re trying to help mechanics improve their day to day life, then you should spend time with some mechanics. Read a variety of mechanics books and magazines. Interview mechanics, asking them a bunch of open ended questions. Soak up all sorts of information about mechanics, why they do what they do, what they enjoy doing, what they dislike doing, what they struggle doing.&lt;/p&gt;
+
+&lt;p&gt;Then once you’ve spent enough time getting into the head of the mechanics, you should start to see a pattern emerge.&lt;/p&gt;
+
+&lt;p&gt;Doing this sort of investigating can be fun when you’re in the flow, other times it’s a bit of a drag but you plough on, but either way I find it easy to justify this time as work.&lt;/p&gt;
+
+&lt;p&gt;The other side to data gathering is the generic data points. This can come from anywhere. Reading about anything you’re interested in is a great way to collect generic data. Listening to podcasts or audio books and watching films and documentaries are more great ways to add depth and variety into our general data store.&lt;/p&gt;
+
+&lt;p&gt;This generic data collection doesn’t feel like work at all, and it isn’t really, it’s just life. But the more non-specific data you collect the more interesting combinations you can make when you come to connect the data points.&lt;/p&gt;
+
+&lt;p&gt;Connecting the data points can happen anytime, anywhere. Often a good amount of this will happen hand in hand with gathering data points. As you’re learning about the people you’re looking to help and the problems they’re experiencing you’ll start to see threads appear between the different data points you’ve been gathering.&lt;/p&gt;
+
+&lt;p&gt;Often though, we need to get away from our normal surroundings to create the best connections. Have you ever noticed how many of our best ideas happen in the shower?&lt;/p&gt;
+
+&lt;p&gt;Jonah Lehrer thinks its to do with quietening ourselves, stopping ourselves from being externally distracted to listen to our subconscious that’s already been making some of these connections:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“…so many insights happen during warm showers. For many people, it’s the most relaxing part of the day. It’s not until we’re being massaged by warm water, unable to check our e-mail, that we’re finally able to hear the quiet voices in the backs of our heads telling us about the insight. The answers have been their all along–we just weren’t listening.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Showers are a classic breeding ground for creative connections, but so are quiet, scenic walks. I find I’m often scribbling down insights (read: tweeting) that come to me as I go for a walk through a local field.&lt;/p&gt;
+
+&lt;p&gt;But despite this increased creativity, I often find it hard to justify going on these walks, as it doesn’t &lt;em&gt;feel like&lt;/em&gt; work (don’t worry I shower every day). Every step I take outside of my door is a step away from my laptop, where I &lt;em&gt;feel&lt;/em&gt; I should be, &lt;em&gt;being productive&lt;/em&gt;. &lt;em&gt;Doing the work&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And that’s an issue. If I’m to solve the most interesting problems in the most effective, creative ways, then I need to give myself time to breathe. To quieten myself. To not be distracted. I need to take the time to connect the dots.&lt;/p&gt;
+
+&lt;p&gt;This is as much work as data gathering. I have to discipline myself to step away from my laptop and relax.&lt;/p&gt;
+
+&lt;p&gt;To find the balance between focus and quiet.&lt;/p&gt;
+
+&lt;p&gt;The balance between data gathering and data connecting.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.
+&lt;cite&gt;Steve Jobs, Wired, February 1995&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
   <entry>
     <title>That's the problem</title>
     <link rel="alternate" href="http://blog.url.com/2016/11/28/that-s-the-problem/"/>
@@ -244,37 +297,6 @@ Stop waiting for the perfect team.&lt;/p&gt;
 &lt;p&gt;I know this &lt;em&gt;because I’ve felt it&lt;/em&gt;. I’ve experienced trying to find the “right path”, desperately searching for the industry approved short cuts, and I’ve found out that it doesn’t exist. It’s a myth. I’ve tried doing it this way, that way, the other way, and now I’m trying it my way.&lt;/p&gt;
 
 &lt;p&gt;So I’m gonna do me. And I encourage you, you do you. We’ll all embrace who we are and who we aren’t, and we’ll find our place. We’ll work hard, create value, all the while taking little steps towards our crazy dreams day by day. And at the end, we’ll look back at all the crazy things we did, every story gained and scar scabbed over, and say, “I did it my way. I did me. I gave it my all. I left my mark.”&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Move</title>
-    <link rel="alternate" href="http://blog.url.com/2016/10/24/move/"/>
-    <id>http://blog.url.com/2016/10/24/move/</id>
-    <published>2016-10-24T01:00:00+01:00</published>
-    <updated>2016-10-29T18:46:26+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;All mankind is divided into three classes: those that are immovable, those that are movable, and those that move.
-&lt;cite&gt;Benjamin Franklin&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I don’t always know what to do. Where to focus, when to say yes, when to say no. One thing I do know is that I must do &lt;em&gt;something&lt;/em&gt;. I must try. Experiment. Dabble. Try things out for size. Learn. Repeat.&lt;/p&gt;
-
-&lt;p&gt;One thing I am not is stationary. That’s the most dangerous state to be in.&lt;/p&gt;
-
-&lt;p&gt;Sitting. Idle. Watching the world go by. Criticising the movers or silently abdicating any participation. Either way, standing still is deadly. I don’t care whether it’s due to apathy or fear. If you stand still long enough you &lt;em&gt;will die&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;We aren’t made to stand still. We’re made to explore. To learn, to grow, to conquer.&lt;/p&gt;
-
-&lt;p&gt;You are not static, you are alive.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The world&lt;/em&gt; may have pinned you down and put you in a box, but what &lt;em&gt;the world&lt;/em&gt; forgets is the miracle that you’re even here, housed in a skeleton, riding laps around a blazing ball of fire.&lt;/p&gt;
-
-&lt;p&gt;Don’t be one of the immovables. Life’s too short. Join us, the movers, as we wander the terrain, exploring, learning, growing.&lt;/p&gt;
-
-&lt;p&gt;Take action today. Start small. Do &lt;em&gt;something&lt;/em&gt;. You were born to live.&lt;/p&gt;
 </content>
   </entry>
 </feed>
