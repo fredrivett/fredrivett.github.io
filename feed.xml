@@ -5,10 +5,56 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-12-05T00:00:00+00:00</updated>
+  <updated>2016-12-12T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>North star</title>
+    <link rel="alternate" href="http://blog.url.com/2016/12/12/north-star/"/>
+    <id>http://blog.url.com/2016/12/12/north-star/</id>
+    <published>2016-12-12T00:00:00+00:00</published>
+    <updated>2016-12-13T10:33:05+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Knowing where you’d like to go is important. It helps us frame the decisions we make now that move us towards where we want to be.&lt;/p&gt;
+
+&lt;p&gt;In our book, &lt;a href="https://learningtolaunch.co/"&gt;Learning To Launch&lt;/a&gt;, we described how we strike the balance between the long term and short term:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Have long term goals in mind, and short term goals in focus.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This means knowing where you’re trying to go and having that as a constant reference point in the back of your mind. &lt;strong&gt;A North Star that you use to guide you on the journey.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For Mike and I, that North Star is freedom. Freedom from the 9-5. Freedom from selling our time. Free to choose how to spend it.&lt;/p&gt;
+
+&lt;p&gt;With the commitments we have, after doing some napkin maths, we’ve worked out we roughly need to be taking in £100k a year. We’ll likely be selling in dollars, so in reality that will be roughly $120k/year, or $10k MRR.&lt;/p&gt;
+
+&lt;p&gt;That feels a long way off. We’ve launched &lt;a href="http://wearecontrast.com/"&gt;a few different things&lt;/a&gt; in the past, and &lt;a href="http://founderskit.co/"&gt;one of those&lt;/a&gt; is making a small amount of money, but we don’t have an easy pathway on how we’re going to get from here to there. There are so many unknowns, we’d never be able to predict the path we will take.&lt;/p&gt;
+
+&lt;p&gt;But that’s ok. Despite that, we’ve taken our best guess at breaking down the big goal into smaller, more attainable goals. Instead of trying to get to financial freedom now, we’re focussed on simply finding a problem that interests us, that we’d like to spend a few months finding out more about and attempting to solve.&lt;/p&gt;
+
+&lt;p&gt;That’s not to say any problem that we’d like to solve will do. There are other checks that have to be met, which fall under the broad heading of “how well placed are we to solve this?”. We’re not attempting to solve world hunger just yet.&lt;/p&gt;
+
+&lt;p&gt;The challenge with a goal so seemingly unattainable as financial freedom is that it can cripple us from moving forwards. If we focus too heavily on “will this idea ever earn $10k a month?” then we may never take that step and launch a product that can make us $100 a month.&lt;/p&gt;
+
+&lt;p&gt;It’s important to strike the right balance. &lt;a href="http://fredrivett.com/2016/08/29/healthy-pressure/"&gt;Some pressure is healthy&lt;/a&gt;. A little pressure can help bring clarity to what matters, but too much can stop us dead in our tracks. We need a pressure valve that we can tweak to keep us motivated without feeling overwhelmed.&lt;/p&gt;
+
+&lt;p&gt;For us, having that smaller, more attainable “find a problem that we’re interested in solving” goal helps lower the pressure. We can chip away at this and see progress take shape.&lt;/p&gt;
+
+&lt;p&gt;As we attempt to move towards our goal, progress will never be linear. There will be times when we make great progress, and times when we feel we’re taking two steps forward and three steps back. This up and down journey leads to great highs and low lows, which is why we have to view progress over a greater period of time.&lt;/p&gt;
+
+&lt;p&gt;Have I made progress this past six months? This year, 2016, did I move towards where I want to be, or have I stagnated? Am I on the right path, or do I need to make a change?&lt;/p&gt;
+
+&lt;p&gt;This year, as we look back, we’ve not made the progress we’d hoped to. I’m just being honest. We’ve made some, we’re in a better place now than we were twelve months ago, but we’ve wasted too much time going round in circles, &lt;a href="http://fredrivett.com/2016/10/03/am-i-doing-it-right/"&gt;stuck in analysis paralysis&lt;/a&gt;. We’re attempting to learn from that now and not make that same mistake again in 2017.&lt;/p&gt;
+
+&lt;p&gt;As you look back over this year, take time to consider the highs and lows, and take time to think about whether where you want to go has changed, or whether you’ve lost track of your North Star. Recalibrate yourself to live 2017 with intentionality. Set a big ambitious goal and break it down into smaller attainable steps on the journey.&lt;/p&gt;
+
+&lt;p&gt;Our plans never stay fully static, they always evolve and change as we move towards them, as they should. But having that North Star to look up to when the times are tough is important, else we wander, round and round, moving, but never actually getting anywhere.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Connecting Things</title>
     <link rel="alternate" href="http://blog.url.com/2016/12/05/connecting-things/"/>
@@ -225,78 +271,6 @@ Stop waiting for the perfect team.&lt;/p&gt;
 &lt;p&gt;Let’s set aside time when we’re not &lt;em&gt;busy&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Let’s be present.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Create Your Own Path</title>
-    <link rel="alternate" href="http://blog.url.com/2016/10/31/create-your-own-path/"/>
-    <id>http://blog.url.com/2016/10/31/create-your-own-path/</id>
-    <published>2016-10-31T08:27:00+00:00</published>
-    <updated>2016-11-07T13:31:12+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;I’ve spent the past six months thinking about this. It’s been on the back of my mind constantly, and at the front often.&lt;/p&gt;
-
-&lt;p&gt;It’s something I care deeply about. Making the most of it. Making the best use of it. Not wasting it. My time.&lt;/p&gt;
-
-&lt;p&gt;Ironically, because I’ve cared so much about not wasting my time, I’ve done exactly that. I’ve been caught up in trying to &lt;em&gt;do it right&lt;/em&gt;. To do it all now. In analysis paralysis.&lt;/p&gt;
-
-&lt;p&gt;“Is this the right path?”
-“Am I doing it right”?
-“Is this the most efficient way to get from here to there, to reach my goals?”&lt;/p&gt;
-
-&lt;p&gt;These thoughts have been ever present. Every move questioned. Every step doubted. Every option over-analysed.&lt;/p&gt;
-
-&lt;p&gt;It’s brought what was a nicely chugging vehicle to a near stand still. Progress has slowed to a halt. And it’s not even as if I’m getting any rest, it’s been exhausting. Wasteful.&lt;/p&gt;
-
-&lt;p&gt;All because I missed something so simple. One simple truth that I knew but didn’t know. Something that only now has finally clicked.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There isn’t &lt;em&gt;one path&lt;/em&gt; to take, there aren’t any. You’ve got to create your own.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’ve spent way too long working out if &lt;em&gt;this path&lt;/em&gt; was right, or &lt;em&gt;that path&lt;/em&gt;. I’ve tried to “do it right”, putting off my gut instincts and ignoring what I’m good at.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;No, there isn’t a “right way”, only best practices that work in some cases and not in others.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;These best practices are important. They’re the general guidelines that have worked in the past, and will probably help in the future too. They help to shape our plans, but they shouldn’t drive them.&lt;/p&gt;
-
-&lt;p&gt;Instead, our plans should be driven by purpose, passion and intrigue.&lt;/p&gt;
-
-&lt;p&gt;Questioning is right, it’s healthy. But the questioning should never be about “what’s right” in a fixed sense, but what seems to make sense to do based on the data available to you now.&lt;/p&gt;
-
-&lt;p&gt;The best way to create your path is to collect data and try stuff.&lt;/p&gt;
-
-&lt;p&gt;Collecting that data involves listening to others stories, hearing about their successes, and their failures too. Picking out patterns and understanding the underlying principles behind it all.&lt;/p&gt;
-
-&lt;p&gt;Creating your own path isn’t shunning everyone else, being a closed off know it all. It’s the total opposite. It forces you to be &lt;em&gt;more open&lt;/em&gt; because you’ll never know when other people’s paths will help guide yours, and how your story will help shape theirs.&lt;/p&gt;
-
-&lt;p&gt;That’s why it’s so important to surround yourself. &lt;a href="https://learningtolaunch.co/read#6-surround-yourself"&gt;Surround yourself&lt;/a&gt; with great people. Surround yourself with learning.&lt;/p&gt;
-
-&lt;p&gt;Store it all up. Soak it all in. After a while it starts to paint a picture, and this picture can help guide you as you paint your own.&lt;/p&gt;
-
-&lt;p&gt;Surround yourself with clever, creative, inspirational people. Surround yourself with &lt;a href="http://fredrivett.com/2016/10/24/move/"&gt;the movers&lt;/a&gt;. Help them create their path, and let them help you create yours.&lt;/p&gt;
-
-&lt;p&gt;Allow yourself to dream. Think about how you want the world to be. Think about how you can make it more like that.&lt;/p&gt;
-
-&lt;p&gt;Set big audacious long term goals that will stretch you, and specific, attainable, short term smart goals that will help take you there.&lt;/p&gt;
-
-&lt;p&gt;Tell those you surround yourself with the dreams and tell them the goals. Let them be the ones to bring you back on path when you wander off, let them help you shake off the baggage and propel you forwards.&lt;/p&gt;
-
-&lt;p&gt;Then move. Create. Try. Experiment. Do. Follow your inquisition, do what you’re good at. Do what you enjoy.&lt;/p&gt;
-
-&lt;p&gt;After a while you’ll be known for that. You’ll be the person that does X. The loud one. The quiet one. The &lt;em&gt;you&lt;/em&gt; one.&lt;/p&gt;
-
-&lt;p&gt;You’ll build an audience. A genuine bunch of people who like who you are and most of what you say.&lt;/p&gt;
-
-&lt;p&gt;People gravitate towards those who are &lt;em&gt;real&lt;/em&gt;. Those who have integrity. We love transparency, we love vulnerability. Embrace all of this as you create your path. Bring others along for the journey, and in so doing help them to create theirs.&lt;/p&gt;
-
-&lt;p&gt;I know this &lt;em&gt;because I’ve seen it&lt;/em&gt;. Just look at &lt;a href="http://twitter.com/pjrvs"&gt;Paul Jarvis&lt;/a&gt;. He’s, well, Paul. He does things his way and he’s not afraid to show it. &lt;a href="https://twitter.com/levelsio"&gt;Pieter Levels&lt;/a&gt;. He’s controversial, outspoken, and he makes things happen. &lt;a href="https://twitter.com/dhh"&gt;DHH&lt;/a&gt; is similar. You can’t put him in a box.&lt;/p&gt;
-
-&lt;p&gt;I know this &lt;em&gt;because I’ve felt it&lt;/em&gt;. I’ve experienced trying to find the “right path”, desperately searching for the industry approved short cuts, and I’ve found out that it doesn’t exist. It’s a myth. I’ve tried doing it this way, that way, the other way, and now I’m trying it my way.&lt;/p&gt;
-
-&lt;p&gt;So I’m gonna do me. And I encourage you, you do you. We’ll all embrace who we are and who we aren’t, and we’ll find our place. We’ll work hard, create value, all the while taking little steps towards our crazy dreams day by day. And at the end, we’ll look back at all the crazy things we did, every story gained and scar scabbed over, and say, “I did it my way. I did me. I gave it my all. I left my mark.”&lt;/p&gt;
 </content>
   </entry>
 </feed>
