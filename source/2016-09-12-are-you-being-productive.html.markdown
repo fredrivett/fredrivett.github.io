@@ -1,5 +1,5 @@
 ---
-title: where are you going?
+title: are you being productive?
 date: 2016-09-12 21:06 UTC
 tags: startups, life
 ---
