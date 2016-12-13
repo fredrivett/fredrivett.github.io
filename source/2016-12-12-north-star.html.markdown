@@ -10,15 +10,15 @@ In our book, [Learning To Launch](https://learningtolaunch.co/), we described ho
 
 > Have long term goals in mind, and short term goals in focus.
 
-This means knowing where you’re trying to go and having that as a constant reference point in the back of your mind. A North Star that you use to guide you on the journey.
+This means knowing where you’re trying to go and having that as a constant reference point in the back of your mind. **A North Star that you use to guide you on the journey.**
 
 For Mike and I, that North Star is freedom. Freedom from the 9-5. Freedom from selling our time. Free to choose how to spend it.
 
-With the commitments we have, after doing some napkin maths, we’ve worked out we roughly need to be taking in £100k a year. We’ll likely be selling in dollars, so in reality that will be $120k/year, or $10k MRR.
+With the commitments we have, after doing some napkin maths, we’ve worked out we roughly need to be taking in £100k a year. We’ll likely be selling in dollars, so in reality that will be roughly $120k/year, or $10k MRR.
 
-That feels a long way off. We’ve launched a few different things in the past, and one of those is making a small amount of money, but we don’t have an easy pathway on how we’re going to get from here to there. There are so many unknowns, we’d never be able to predict the path we will take.
+That feels a long way off. We’ve launched [a few different things](http://wearecontrast.com/) in the past, and [one of those](http://founderskit.co/) is making a small amount of money, but we don’t have an easy pathway on how we’re going to get from here to there. There are so many unknowns, we’d never be able to predict the path we will take.
 
-But that’s ok. Despite that, we’ve taken our best guess at breaking down the big goal into some smaller, more attainable goals. Instead of trying to get to financial freedom now, we’re focussed on simply finding a problem that interests us, that we’d like to spend a few months finding out more about and attempting to solve.
+But that’s ok. Despite that, we’ve taken our best guess at breaking down the big goal into smaller, more attainable goals. Instead of trying to get to financial freedom now, we’re focussed on simply finding a problem that interests us, that we’d like to spend a few months finding out more about and attempting to solve.
 
 That’s not to say any problem that we’d like to solve will do. There are other checks that have to be met, which fall under the broad heading of “how well placed are we to solve this?”. We’re not attempting to solve world hunger just yet.
 
