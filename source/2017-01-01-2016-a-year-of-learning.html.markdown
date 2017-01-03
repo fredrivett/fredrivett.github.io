@@ -84,11 +84,11 @@ In 2016 I listened to 24 audio books, with a total listening time of over 202 ho
 ★★★☆☆ — _A decent introduction to the mentality of the growth hacker._  
 [Smarter Faster Better](https://www.audible.co.uk/pd/Smarter-Faster-Better-Unabridged-Audiobook/B01BX8RZ1Y) by Charles Duhigg _(10h 22m)_  
 ★★★☆☆ — _A collection of useful tips on how to improve our business lives, yet due to the scattered nature of the book didn't leave me with notable takeaways._  
-[Purple Cow by Seth Godin](http://www.audible.co.uk/pd/Business/Purple-Cow-Audiobook/B004EW53FM) _(2h 58m)_  
+[Purple Cow](http://www.audible.co.uk/pd/Business/Purple-Cow-Audiobook/B004EW53FM) by Seth Godin _(2h 58m)_  
 ★★★☆☆ — _A simple book that drives home one important message, marketing is all about standing out from the crowd._  
-[Man's Search For Meaning by Victor E. Frankl](https://www.audible.co.uk/pd/Mans-Search-for-Meaning-Unabridged-Audiobook/B004EVQKKK) _(4h 47m)_  
+[Man's Search For Meaning](https://www.audible.co.uk/pd/Mans-Search-for-Meaning-Unabridged-Audiobook/B004EVQKKK) by Victor E. Frankl _(4h 47m)_  
 ★★½☆☆ — _An important topic, but quite monotonous at times and tough to stick with. Potentially says more about my attention span than the books content._  
-[People over Profit by Dale Partridge](http://www.audible.co.uk/pd/Business/People-over-Profit-Audiobook/B00WFINV4W) _(3h 5m)_  
+[People over Profit](http://www.audible.co.uk/pd/Business/People-over-Profit-Audiobook/B00WFINV4W) by Dale Partridge _(3h 5m)_  
 ★★☆☆☆ — _A decent message but the book didn't captivate. Nothing offensive but never offering anything too notable, won't be rushing to recommend._   
 
 ## Side projects
