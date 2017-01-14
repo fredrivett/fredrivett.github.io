@@ -12,14 +12,15 @@
 <p>
   Liked this post?
   <strong>
+  <% if current_article.data.hacker_news %>
+    <br>&race; Discuss this post on
+    <%= link_to("Hacker News", current_article.data.hacker_news, target: "_blank") %>
+  <% end %>
   <% if current_article.data.medium %>
     <br>Show some &hearts; on
-    <%= link_to("Medium", current_article.data.medium, target: "_blank") %>,
-    and &phone; the world on
-    <%= tweet %>
-  <% else %>
-    &phone; the world on
-    <%= tweet %>
+    <%= link_to("Medium", current_article.data.medium, target: "_blank") %>
   <% end %>
+    <br>&phone; the world on
+    <%= tweet %>
   </strong>
 </p>
