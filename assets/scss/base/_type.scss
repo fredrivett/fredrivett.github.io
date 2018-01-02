@@ -65,3 +65,13 @@ blockquote {
   }
 }
 
+
+
+
+
+
+ol, ul {
+  @media #{$medium-up} {
+    text-indent: -1.4em;
+  }
+}
