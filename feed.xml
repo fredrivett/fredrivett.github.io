@@ -5,7 +5,7 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-01-01T11:00:00+11:00</updated>
+  <updated>2018-01-01T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
@@ -13,8 +13,8 @@
     <title>2017&amp;#58; A year of two halves</title>
     <link rel="alternate" href="http://blog.url.com/2018/01/01/2017-a-year-of-two-halves/"/>
     <id>http://blog.url.com/2018/01/01/2017-a-year-of-two-halves/</id>
-    <published>2018-01-01T11:00:00+11:00</published>
-    <updated>2018-01-02T16:17:29+11:00</updated>
+    <published>2018-01-01T00:00:00+00:00</published>
+    <updated>2018-01-02T05:17:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -122,8 +122,8 @@
     <title>I'm going full time and we're at $0&amp;nbsp;MRR</title>
     <link rel="alternate" href="http://blog.url.com/2017/05/01/im-going-full-time-and-were-at-0-mrr/"/>
     <id>http://blog.url.com/2017/05/01/im-going-full-time-and-were-at-0-mrr/</id>
-    <published>2017-05-02T06:35:00+10:00</published>
-    <updated>2017-05-02T06:53:30+10:00</updated>
+    <published>2017-05-01T21:35:00+01:00</published>
+    <updated>2017-05-01T21:53:30+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -172,8 +172,8 @@
     <title>2016&amp;#58; A year of learning</title>
     <link rel="alternate" href="http://blog.url.com/2017/01/01/2016-a-year-of-learning/"/>
     <id>http://blog.url.com/2017/01/01/2016-a-year-of-learning/</id>
-    <published>2017-01-02T08:26:00+11:00</published>
-    <updated>2017-01-03T21:51:33+11:00</updated>
+    <published>2017-01-01T21:26:00+00:00</published>
+    <updated>2017-01-03T10:51:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -421,8 +421,8 @@
     <title>Being you</title>
     <link rel="alternate" href="http://blog.url.com/2016/12/19/being-you/"/>
     <id>http://blog.url.com/2016/12/19/being-you/</id>
-    <published>2016-12-19T11:00:00+11:00</published>
-    <updated>2016-12-20T21:09:59+11:00</updated>
+    <published>2016-12-19T00:00:00+00:00</published>
+    <updated>2016-12-20T10:09:59+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -473,8 +473,8 @@ without wondering.”&lt;br /&gt;
     <title>North star</title>
     <link rel="alternate" href="http://blog.url.com/2016/12/12/north-star/"/>
     <id>http://blog.url.com/2016/12/12/north-star/</id>
-    <published>2016-12-12T11:00:00+11:00</published>
-    <updated>2016-12-13T21:33:05+11:00</updated>
+    <published>2016-12-12T00:00:00+00:00</published>
+    <updated>2016-12-13T10:33:05+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -519,8 +519,8 @@ without wondering.”&lt;br /&gt;
     <title>Connecting Things</title>
     <link rel="alternate" href="http://blog.url.com/2016/12/05/connecting-things/"/>
     <id>http://blog.url.com/2016/12/05/connecting-things/</id>
-    <published>2016-12-05T11:00:00+11:00</published>
-    <updated>2016-12-06T21:37:16+11:00</updated>
+    <published>2016-12-05T00:00:00+00:00</published>
+    <updated>2016-12-06T10:37:16+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
