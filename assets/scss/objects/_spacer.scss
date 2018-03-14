@@ -77,10 +77,5 @@
   }
 }
 
-.o_spacer--pt-0 {
-  padding-top: 0;
-}
-
-.o_spacer--pb-0 {
-  padding-bottom: 0;
-}
+.o_spacer--bottom { padding-top: 0; }
+.o_spacer--top { padding-bottom: 0; }
