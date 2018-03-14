@@ -2,14 +2,38 @@
  * Main nav component
  */
 
-.c_main-nav {}
+.c_main-nav {
+  display: flex;
+  justify-content: space-between;
+}
 
 
-  .c_main-nav__logo {
-    display: inline-block;
-    padding: 1rem;
+  .c_main-nav__item {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.3rem;
+  }
+
+  .c_main-nav__item--logo {
+    font-size: 2rem;
 
     @media #{$medium-up} {
       font-size: 2.4rem;
     }
+  }
+
+  .c_main-nav__item--available {
+    background-image: linear-gradient(to right, rgba(#2ecc71, 0.7) 0%, rgba(#2ecc71, 0.7) 100%);
+    color: rgba(#2ecc7a, 0.7);
+    font-weight: bold;
+
+    &:hover, &:focus, &:active {
+      background-image: linear-gradient(to right, rgba(#2ecc71, 1) 0%, rgba(#2ecc71, 1) 100%);
+      color: rgba(#2ecc7a, 1);
+    }
+  }
+
+
+  .c_main-nav__right {
+    display: flex;
   }
