@@ -98,3 +98,21 @@
     @return map-get($my-var-namespace, $var);
   }
 }
+
+
+
+
+
+
+/**
+ * My spacing function
+ *
+ * This function allows us to easily grab spacing to apply to elements as and
+ *  when needed.
+ *
+ * Uses spacing settings set in settings/_spacing.scss.
+ */
+
+@function my-spacing($spacing) {
+  @return map-get($my-spacing, $spacing);
+}
