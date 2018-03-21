@@ -11,9 +11,9 @@ Six weeks ago I found out that my current contract was coming to an end. Natural
 
 When the business ended we parted ways, Mike started at Essex Uni whilst I headed down to West Sussex. Despite moving apart we still kept in touch and continued to work on side projects together.[ Just back then we had no idea how to actually launch them.](https://learningtolaunch.co/read%231-our-backstory)
 
-Fast forward to two years ago, and I'd left my previous job of three years and was ready to make a change in life. I wanted to focus on two of my passions, front end development and making things. Mike and I finally got serious about our ambitions, and made a drastic change. Rather than working on whatever we felt like until we felt like it no more, we'd work on[ six projects in six months](https://blog.wearecontrast.com/introducing-sixbysix-217d608362), looking to launch them all within that month timespan.
+Fast forward to two years ago, and I'd left my previous job of three years and was ready to make a change in life. I wanted to focus on two of my passions, front-end development and making things. Mike and I finally got serious about our ambitions, and made a drastic change. Rather than working on whatever we felt like until we felt like it no more, we'd work on[ six projects in six months](https://blog.wearecontrast.com/introducing-sixbysix-217d608362), looking to launch them all within that month timespan.
 
-Strangely enough, it worked. We went from zero launches to six in *(ahem: just over)* six months. We'd invested a tonne of time (over 1200 hours that year) but we grew a lot. Those projects also led me to land my first job as a front end developer.
+Strangely enough, it worked. We went from zero launches to six in *(ahem: just over)* six months. We'd invested a tonne of time (over 1200 hours that year) but we grew a lot. Those projects also led me to land my first job as a front-end developer.
 
 9 months before, I'd left a job and a life in West Sussex, moving back home to start[ SixBySix](https://blog.wearecontrast.com/introducing-sixbysix-217d608362) and we pushed ourselves to the next level. Now, two years on, it's happening again.
 
@@ -33,7 +33,7 @@ That excitement, mixed in with a healthy dose of nerves, is my fuel for this mis
 
 Mike, for now (and the foreseeable future), remains full-time, he'll be building out our tech on the side. In the meantime, each day I'll be doing everything I can to get this business off the ground.
 
-That means reaching out to everyone I can who I think will benefit from our product. That means reaching out to customers, listening to customers, designing the UI & UX, coding the front end, and working with Mike to guide the product forwards.
+That means reaching out to everyone I can who I think will benefit from our product. That means reaching out to customers, listening to customers, designing the UI & UX, coding the front-end, and working with Mike to guide the product forwards.
 
 I'm excited by this challenge. I've set myself a goal of reaching out to 10 business every day. Emails, phone calls, meetups, this is the bread and butter of our initial customer acquisition plan. This is also the thing I naturally enjoy the least. Time to expand the comfort zone.
 
