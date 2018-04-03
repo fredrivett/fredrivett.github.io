@@ -1,0 +1,21 @@
+.o_bordered-list {
+  margin: 0;
+  text-indent: 0;
+  list-style-type: none;
+
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: #{-(my-spacing(medium))};
+  margin-bottom: #{-(my-spacing(medium))};
+
+  & > * { /* [1] */
+    margin-right: my-spacing(medium);
+    margin-bottom: my-spacing(medium);
+
+    &:nth-last-child(n+2) {
+      padding-right: my-spacing(medium);
+      border-right: 2px solid rgba(my-color(denim), 0.15);
+    }
+  }
+}
+
