@@ -48,6 +48,8 @@ per_page: 50
                   %h3.c_article-head__title= link_to article.title, article
                   %time.c_article-head__date{datetime: article.date.strftime('%Y-%m-%dT%l:%M:%S%z'), title: article.date.strftime('%Y-%m-%d')}
                     = article.date.strftime('%b %e')
+                    %sup
+                      = article.date.strftime('\'%y')
                   / use article.summary(250) if you have Nokogiri available to show just the first 250 characters
                   / = article.body
           - if paginate
