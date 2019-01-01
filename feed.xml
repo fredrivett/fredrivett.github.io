@@ -5,10 +5,91 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2018-01-01T00:00:00+00:00</updated>
+  <updated>2019-01-01T12:44:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>2018&amp;#58; A change of plans</title>
+    <link rel="alternate" href="http://blog.url.com/2019/01/01/2018-change-of-plans/"/>
+    <id>http://blog.url.com/2019/01/01/2018-change-of-plans/</id>
+    <published>2019-01-01T12:44:00+00:00</published>
+    <updated>2019-01-01T13:13:11+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;2018 reiterated to me the feeling that life isn't always predictable as we sometimes think. The path I've taken isn't quite what &lt;a href="http://fredrivett.com/2018/01/01/2017-a-year-of-two-halves/"&gt;I planned on this time last year&lt;/a&gt;, with different challenges and opportunities than expected, but I'm thankful for it as I've grown as a person through the process.&lt;/p&gt;
+
+&lt;p&gt;At the start of the year I was in Australia, visiting my sister and her family having spent Christmas with them after a few months of travelling through Asia.&lt;/p&gt;
+
+&lt;p&gt;Australia had been the last stop in my route, a date in the calendar I knew I was going to hit. Before then I planned loosely, up to a month in advance, but always had the certainty of Christmas in Australia. So as Christmas and New Years passed, I began wondering where next? What does the future hold?&lt;/p&gt;
+
+&lt;p&gt;After doing some research I settled on Bali, having heard lots of good stuff about it, and planned on spending 1-2 months working solidly, doing a little paid work but mostly attempting to build up a business with &lt;a href="https://twitter.com/mikeaag"&gt;Mike&lt;/a&gt;. I even bought an extended visa upon arrival in Bali, so I didn't have to leave after a month.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/fredrivett/status/952929626019446784"&gt;But as I sat in Bali&lt;/a&gt;, and even as I was leaving my sister and her family behind in Australia, I felt quite lost. Where should I be in the world? What should I be doing? Am I living my "best life"?&lt;/p&gt;
+
+&lt;p&gt;I guess you could say I had my own late-twenties life crisis. Some of the best months of my life were those I had just lived, travelling alone through Japan, Hong Kong, Malaysia and more, but deep down I sensed living solo wasn't right for me, not now at least. I needed to settle down somewhere, at least for a little while, and find my community.&lt;/p&gt;
+
+&lt;h2 id="change-of-plan-back-to-england"&gt;Change of plan, back to England&lt;/h2&gt;
+
+&lt;p&gt;So in late January, after a short stint in Bali, I arrived back in the UK. I had a friend's wedding to attend which I was glad (and surprised) I was able to make having expected to miss it.&lt;/p&gt;
+
+&lt;p&gt;The wedding came and went, and I still wasn't entirely sure where home should be. Honestly, I felt quite lost at this time, and spent a couple of months staying with friends whilst working remotely and trying to figure out my next steps.&lt;/p&gt;
+
+&lt;p&gt;It was during this process I made one of the hardest decisions of my (relatively easy) life, to step away from working on building a business with Mike. This took a couple of months of wrestling with, as a big part of me wanted to keep doing what we'd set out to do 10 years before (build a business together), but I couldn't shake the feeling I needed to make space with a clean slate for what would come next. I wasn't to know it but this decision gave me room for what would come next. (Shoutout to Mike here, the way he handled the process and the strength of our friendship since is testament to how much of a good guy he is.)&lt;/p&gt;
+
+&lt;p&gt;It wasn't until a brief trip out to Madrid that I gained some perspective. As the plane was descending to land at Madrid airport, I felt a sense of peace that I should move back to London. Those of us that believe there's more to life than matter might say God was speaking to me, others could put it down to the dots finally connecting and the path ahead revealing itself. Either way, I felt I had my answer, I was to move to London and settle down, at least for the next 6-12 months.&lt;/p&gt;
+
+&lt;p&gt;After Madrid, I had a quick stop off in Berlin to see my friend &lt;a href="https://twitter.com/_niwilai"&gt;Nico&lt;/a&gt;, and headed back to London. After a couple days of frantic flat hunting, I found a place and put down a deposit. A month later, after another quick last minute trip around the world to see my bro in Canada and sister in Australia, I arrived back ready to move in.&lt;/p&gt;
+
+&lt;p&gt;After deciding to move to London I contacted those I knew from working in the city before in case anyone knew of any opportunities. One of those I spoke with was &lt;a href="https://twitter.com/pace"&gt;Barry&lt;/a&gt;, who unexpectedly pitched me on starting a startup with him, as part of an incubator.&lt;/p&gt;
+
+&lt;p&gt;This wasn't an offer I was expecting, but after a couple of weeks of weighing it all up, I decided I was in.&lt;/p&gt;
+
+&lt;h2 id="starting-a-startup"&gt;Starting a startup&lt;/h2&gt;
+
+&lt;p&gt;One of the main reasons for agreeing to join the incubator was to work with Barry. I'd worked with Barry before, and admired his product skills. As an aspiring founder myself, product was an area I wanted to develop in, so getting to work alongside him was a big pull.&lt;/p&gt;
+
+&lt;p&gt;The role itself was outside my comfort zone, as prospective CTO. As someone who comes from a front-end background, I hadn't really considered myself as the CTO-type. I thought that CTO's were backend developers who enjoyed architecting server setups in their spare time. But after chatting to some CTO's I knew and some I didn't, they convinced me that this was a role I could grow with. After all to start with I'd be the Chief Technical Officer of one, me.&lt;/p&gt;
+
+&lt;p&gt;Since taking on the role, I've learnt a lot. Technically, working with React Native for the first time and getting my feet wet with AWS; from a product perspective, going through the process of discovery with Barry; and understanding myself and my motivations and strengths/weaknesses better as a founder.&lt;/p&gt;
+
+&lt;p&gt;We set out to work on building a mobile news app for younger folks (18-24yo). The premise being, how can we take what we know from the world of habit building products like Snapchat and build habit loops in the news? &lt;a href="https://thedot.news"&gt;The Dot&lt;/a&gt; was our first stab at this.&lt;/p&gt;
+
+&lt;p&gt;The past 6 months have been a real learning opportunity and I've enjoyed living outside my comfort-zone and testing myself. I'm grateful for the opportunity &lt;a href="https://foundersfactory.com"&gt;Founders Factory&lt;/a&gt; have given me and I'm proud of the work we've done so far.&lt;/p&gt;
+
+&lt;h2 id="my-goals-for-2018-were"&gt;My goals for 2018 were:&lt;/h2&gt;
+
+&lt;h4 id="run-10k"&gt;✅ Run 10k&lt;/h4&gt;
+&lt;p&gt;This I achieved, and it was actually quite a bit easier than I expected. &lt;a href="https://www.strava.com/activities/1453090541"&gt;I started running in early March&lt;/a&gt;, and although &lt;a href="https://twitter.com/fredrivett/status/975683244116074497"&gt;progress wasn't noticeable early on&lt;/a&gt;, things didn't take long to pick up. 57 days after I started training, &lt;a href="https://twitter.com/fredrivett/status/993094110516039682"&gt;I ran my first 10k&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This timeframe isn't recommended, I went from running 5k to 10k in one swoop of excitement at hitting my goal, and later in the year paid the price with an achilles injury. But this is to say that we humans are far more capable than we think, running a 10k felt almost impossible for me after years of physical issues, but was actually far more within my grasp than I realised. For years I placed a ceiling above what I could do, this year I smashed through that.&lt;/p&gt;
+
+&lt;h4 id="k-mrr"&gt;❌ 10k MRR&lt;/h4&gt;
+&lt;p&gt;This goal I didn't hit, having stepped away from any personal business projects when I had the hit-the-reset-button moment at the start of the year.&lt;/p&gt;
+
+&lt;h4 id="travel-visit-5-new-countries"&gt;❌ Travel (visit 5 new countries)&lt;/h4&gt;
+&lt;p&gt;This one was a fail too, when my plans changed from travelling to settling down I left this one behind. That said I still visited four new cities (Melbourne, Madrid, Honolulu and Edinburgh) as well as heading back to Sydney, Vancouver and Berlin.&lt;/p&gt;
+
+&lt;h2 id="my-goals-for-2019"&gt;My goals for 2019:&lt;/h2&gt;
+
+&lt;p&gt;Having thought at length about my goals for 2019, I realised my project this year is me. My goal is a healthy Fred.&lt;/p&gt;
+
+&lt;p&gt;I've read others online who have gone through therapy, and at times earlier in the year I realised I'd bottled up some emotions rather than dealing with them at source. Some say everyone should do therapy at least once in their life, so this year I want to give therapy a shot, even a minor increase in peace/happiness/health is worth it.&lt;/p&gt;
+
+&lt;p&gt;Secondarily I want to take my fitness goals to the next level. Running 10k was about getting my legs moving again after a years of physical issues and feeling limited by them. This year I want to be playing football again regularly, as well as get in better physical shape (stronger, leaner, more flexible). To do this I'm going to put my money where my mouth is and work with some professionals who can help guide me in how best to achieve the outcomes I'm going after. Some of these specific goals will probably change after discussing with professionals, but for now:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To have at least one month (4 sessions) therapy&lt;/li&gt;
+  &lt;li&gt;To be playing football regularly again&lt;/li&gt;
+  &lt;li&gt;To be able to touch my toes&lt;/li&gt;
+  &lt;li&gt;To be able to see my abs&lt;/li&gt;
+  &lt;li&gt;Gain 5kg in muscle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Well that's a wrap, folks. Here's hoping 2019 is the best year yet for you, that you live life like never before and come out of it with no regrets. Let's do this 💪&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>2017&amp;#58; A year of two halves</title>
     <link rel="alternate" href="http://blog.url.com/2018/01/01/2017-a-year-of-two-halves/"/>
@@ -513,59 +594,6 @@ without wondering.”&lt;br /&gt;
 &lt;p&gt;As you look back over this year, take time to consider the highs and lows, and take time to think about whether where you want to go has changed, or whether you’ve lost track of your North Star. Recalibrate yourself to live 2017 with intentionality. Set a big ambitious goal and break it down into smaller attainable steps on the journey.&lt;/p&gt;
 
 &lt;p&gt;Our plans never stay fully static, they always evolve and change as we move towards them, as they should. But having that North Star to look up to when the times are tough is important, else we wander, round and round, moving, but never actually getting anywhere.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Connecting Things</title>
-    <link rel="alternate" href="http://blog.url.com/2016/12/05/connecting-things/"/>
-    <id>http://blog.url.com/2016/12/05/connecting-things/</id>
-    <published>2016-12-05T00:00:00+00:00</published>
-    <updated>2016-12-06T10:37:16+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Solving problems is at the heart of any great product or business. Behind every shiny product or lightbulb idea is a real problem being solved.&lt;/p&gt;
-
-&lt;p&gt;When trying to solve a problem, there are two key activities we must undertake, data gathering and data connecting. The more data points you gather, the more you’ll have to connect together to form creative patterns. As Steve Jobs said, &lt;em&gt;“creativity is just connecting things.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The best way to make the best data connections is to collect two types of data, specific and generic.&lt;/p&gt;
-
-&lt;p&gt;Specific data is the information you learn about the problem you’re trying to solve. So if you’re trying to help mechanics improve their day to day life, then you should spend time with some mechanics. Read a variety of mechanics books and magazines. Interview mechanics, asking them a bunch of open ended questions. Soak up all sorts of information about mechanics, why they do what they do, what they enjoy doing, what they dislike doing, what they struggle doing.&lt;/p&gt;
-
-&lt;p&gt;Then once you’ve spent enough time getting into the head of the mechanics, you should start to see a pattern emerge.&lt;/p&gt;
-
-&lt;p&gt;Doing this sort of investigating can be fun when you’re in the flow, other times it’s a bit of a drag but you plough on, but either way I find it easy to justify this time as work.&lt;/p&gt;
-
-&lt;p&gt;The other side to data gathering is the generic data points. This can come from anywhere. Reading about anything you’re interested in is a great way to collect generic data. Listening to podcasts or audio books and watching films and documentaries are more great ways to add depth and variety into our general data store.&lt;/p&gt;
-
-&lt;p&gt;This generic data collection doesn’t feel like work at all, and it isn’t really, it’s just life. But the more non-specific data you collect the more interesting combinations you can make when you come to connect the data points.&lt;/p&gt;
-
-&lt;p&gt;Connecting the data points can happen anytime, anywhere. Often a good amount of this will happen hand in hand with gathering data points. As you’re learning about the people you’re looking to help and the problems they’re experiencing you’ll start to see threads appear between the different data points you’ve been gathering.&lt;/p&gt;
-
-&lt;p&gt;Often though, we need to get away from our normal surroundings to create the best connections. Have you ever noticed how many of our best ideas happen in the shower?&lt;/p&gt;
-
-&lt;p&gt;Jonah Lehrer thinks its to do with quietening ourselves, stopping ourselves from being externally distracted to listen to our subconscious that’s already been making some of these connections:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“…so many insights happen during warm showers. For many people, it’s the most relaxing part of the day. It’s not until we’re being massaged by warm water, unable to check our e-mail, that we’re finally able to hear the quiet voices in the backs of our heads telling us about the insight. The answers have been their all along–we just weren’t listening.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Showers are a classic breeding ground for creative connections, but so are quiet, scenic walks. I find I’m often scribbling down insights (read: tweeting) that come to me as I go for a walk through a local field.&lt;/p&gt;
-
-&lt;p&gt;But despite this increased creativity, I often find it hard to justify going on these walks, as it doesn’t &lt;em&gt;feel like&lt;/em&gt; work (don’t worry I shower every day). Every step I take outside of my door is a step away from my laptop, where I &lt;em&gt;feel&lt;/em&gt; I should be, &lt;em&gt;being productive&lt;/em&gt;. &lt;em&gt;Doing the work&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;And that’s an issue. If I’m to solve the most interesting problems in the most effective, creative ways, then I need to give myself time to breathe. To quieten myself. To not be distracted. I need to take the time to connect the dots.&lt;/p&gt;
-
-&lt;p&gt;This is as much work as data gathering. I have to discipline myself to step away from my laptop and relax.&lt;/p&gt;
-
-&lt;p&gt;To find the balance between focus and quiet.&lt;/p&gt;
-
-&lt;p&gt;The balance between data gathering and data connecting.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.
-&lt;cite&gt;Steve Jobs, Wired, February 1995&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>
