@@ -88,7 +88,7 @@ Early in the year I headed to Scandinavia for the first time, with [a quick trip
 
 Despite the lingering snow on the ground I enjoyed my time in the Swedish capital. Wandering the streets of a new city with my thoughts is one of my favourite things to do, and I loved eating good food and exploring the beautiful, [peaceful underground world that is Stockholm's subway](https://www.instagram.com/p/Buvs-FUA1BA/).
 
-Soon after that [I popped out to the South of Spain](https://www.instagram.com/stories/highlights/18025427368035328/), to see [@martinstellar](https://twitter.com/martinstellar), a good friend who I hadn't met IRL until then. I spent a bit of time in Malaga on my own before heading east to his place, and we had a good time [eating good food](https://www.instagram.com/stories/highlights/17908763809283924/) and drinking good wine, seeing the local area and zip-lining across the countryside.
+Soon after that I popped out to the South of Spain, to see [@martinstellar](https://twitter.com/martinstellar), a good friend who I hadn't met IRL until then. I spent a bit of time in Malaga on my own before heading east to his place, and we had a good time eating good food and drinking good wine, seeing the local area and zip-lining across the countryside.
 
 Next up was a quick weekend trip away with the family, seeing my brother who'd popped back over from Canada.
 
@@ -102,7 +102,7 @@ It was such a beautiful time with good friends that will live long in the memory
 
 Not long after Scotland, it was off to Italy with some friends to celebrate the girlfriend's birthday. We had a beautiful time in Puglia, were very fortunate with the warm weather despite it being October, and came back with hearts full, blessed by our time away.
 
-In the final month of the year I used my new found spare time to [visit a good mate of mine in Dortmund, Germany](https://www.instagram.com/stories/highlights/18025427368035328/). I [shot a proper gun for the first time](https://www.instagram.com/stories/highlights/18055512313104815/), and though I have no love for guns it was a good experience to feel just how powerful these weapons are. We [played 3D indoor glow-in-the-dark minigolf](https://www.instagram.com/p/B53tfSwHU3X/), ate good food, had deep chats and laughed well.
+In the final month of the year I used my new found spare time to visit a good mate of mine in Dortmund, Germany. I shot a proper gun for the first time, and though I have no love for guns it was a good experience to feel just how powerful these weapons are. We [played 3D indoor glow-in-the-dark minigolf](https://www.instagram.com/p/B53tfSwHU3X/), ate good food, had deep chats and laughed well.
 
 The final trip of the year was a domestic one, popping up north to see some old friends, celebrating a 30th birthday, and getting some space to take stock of another year come and gone.
 
