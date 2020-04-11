@@ -1,0 +1,26 @@
+---
+pageable: true
+per_page: 50
+---
+
+.o_spacer.o_spacer--large
+  .container
+    .row
+      .ten.columns.centered
+        .o_spacer.o_spacer--large
+          - if paginate && num_pages > 1
+            %p
+              Page #{page_number} of #{num_pages}
+            - if prev_page
+              %p= link_to 'Previous page', prev_page
+          #section
+            %ol.o_naked-list
+              %li
+                %h2.c_article-list-head.c_pseudo-icon.c_pseudo-icon--arrow
+                  \/notes
+              %li.c_article-head.c_article-head--list-view
+                %h3.c_article-head__title= link_to "0/ moments like this", "/notes/0"
+
+    .row
+      .twelve.columns.centered
+        = partial "rtu"
