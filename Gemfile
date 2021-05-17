@@ -5,7 +5,7 @@ source 'http://rubygems.org'
 gem "middleman", "~> 4.3.6"
 gem "middleman-blog", "~> 4.0.0"
 gem "middleman-deploy", "~> 2.0.0.pre.alpha"
-gem "nokogiri", "~> 1.10.10"
+gem "nokogiri", "~> 1.11.4"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
